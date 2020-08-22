@@ -1,0 +1,2055 @@
+\begin{thebibliography}{}
+
+\bibitem[Adaloglou et~al., 2020]{adaloglou_comprehensive_2020}
+Adaloglou, N., Chatzis, T., Papastratis, I., Stergioulas, A., Papadopoulos,
+  G.~T., Zacharopoulou, V., Xydopoulos, G.~J., Atzakas, K., Papazachariou, D.,
+  and Daras, P. (2020).
+\newblock A {{Comprehensive Study}} on {{Sign Language Recognition Methods}}.
+\newblock {\em arXiv:2007.12530 [cs]}.
+
+\bibitem[Agarwal and Thakur, 2013]{agarwal_sign_2013}
+Agarwal, A. and Thakur, M.~K. (2013).
+\newblock Sign language recognition using {{Microsoft Kinect}}.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Contemporary Computing}}
+  ({{IC3}})}, pages 181--185.
+
+\bibitem[Albanie et~al., 2020]{albanie_bsl1k_2020}
+Albanie, S., Varol, G., Momeni, L., Afouras, T., Chung, J.~S., Fox, N., and
+  Zisserman, A. (2020).
+\newblock {{BSL}}-{{1K}}: {{Scaling}} up co-articulated sign language
+  recognition using mouthing cues.
+\newblock {\em arXiv:2007.12131 [cs]}.
+
+\bibitem[Almeida et~al., 2014]{almeida_feature_2014}
+Almeida, S. G.~M., Guimar{\~a}es, F.~G., and Ram{\'i}rez, J.~A. (2014).
+\newblock Feature extraction in {{Brazilian Sign Language Recognition}} based
+  on phonological structure and using {{RGB}}-{{D}} sensors.
+\newblock {\em Expert Systems with Applications}, 41(16):7259--7271.
+
+\bibitem[Aran and Akarun, 2008]{aran_multiclass_2008}
+Aran, O. and Akarun, L. (2008).
+\newblock Multi-class classification strategies for {{Fisher}} scores of
+  gesture and sign sequences.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Pattern Recognition}}
+  ({{ICPR}})}, pages 1--4, {Tampa, FL, USA}.
+
+\bibitem[Aran and Akarun, 2010]{aran_multiclass_2010}
+Aran, O. and Akarun, L. (2010).
+\newblock A multi-class classification strategy for {{Fisher}} scores:
+  {{Application}} to signer independent sign language recognition.
+\newblock {\em Pattern Recognition}, 43(5):1776--1788.
+
+\bibitem[Aran et~al., 2009a]{aran_signtutor_2009}
+Aran, O., Ari, I., Akarun, L., Sankur, B., Benoit, A., Caplier, A., Campr, P.,
+  Carrillo, A.~H., and Fanard, F.~X. (2009a).
+\newblock {{SignTutor}}: {{An Interactive System}} for {{Sign Language
+  Tutoring}}.
+\newblock {\em IEEE MultiMedia}, 16(1):81--93.
+
+\bibitem[Aran et~al., 2009b]{aran_beliefbased_2009}
+Aran, O., Burger, T., Caplier, A., and Akarun, L. (2009b).
+\newblock A belief-based sequential fusion approach for fusing manual signs and
+  non-manual signals.
+\newblock {\em Pattern Recognition}, 42(5):812--822.
+
+\bibitem[Ariesta et~al., 2018]{ariesta_sentence_2018}
+Ariesta, M.~C., Wiryana, F., and Zahra, a.~A. (2018).
+\newblock Sentence {{Level Indonesian Sign Language Recognition Using 3D
+  Convolutional Neural Network}} and {{Bidirectional Recurrent Neural
+  Network}}.
+\newblock In {\em 2018 {{Indonesian Association}} for {{Pattern Recognition
+  International Conference}} ({{INAPR}})}, pages 16--22.
+
+\bibitem[Assaleh et~al., 2010]{assaleh_continuous_2010}
+Assaleh, K., Shanableh, T., Fanaswala, M., Amin, F., and Bajaj, H. (2010).
+\newblock Continuous {{Arabic Sign Language Recognition}} in {{User Dependent
+  Mode}}.
+\newblock {\em Journal of Intelligent Learning Systems and Applications},
+  02:19.
+
+\bibitem[Assan and Grobel, 1997]{assan_videobased_1997}
+Assan, M. and Grobel, K. (1997).
+\newblock Video-based sign language recognition using {{Hidden Markov Models}}.
+\newblock In {\em Gesture and {{Sign Language}} in {{Human}}-{{Computer
+  Interaction}}}, Lecture {{Notes}} in {{Computer Science}}, pages 97--109.
+
+\bibitem[Athitsos et~al., 2008]{athitsos_american_2008}
+Athitsos, V., Neidle, C., Sclaroff, S., Nash, J., Stefan, A., Yuan, Q., and
+  Thangali, A. (2008).
+\newblock The {{American Sign Language Lexicon Video Dataset}}.
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition Workshops}} ({{CVPRW}})}, pages 1--8.
+
+\bibitem[Athitsos et~al., 2010]{athitsos_databasebased_2010}
+Athitsos, V., Wang, H., and Stefan, A. (2010).
+\newblock A database-based framework for gesture recognition.
+\newblock {\em Personal and Ubiquitous Computing}, 14(6):511--526.
+
+\bibitem[Avola et~al., 2019]{avola_exploiting_2019}
+Avola, D., Bernardi, M., Cinque, L., Foresti, G.~L., and Massaroni, C. (2019).
+\newblock Exploiting {{Recurrent Neural Networks}} and {{Leap Motion
+  Controller}} for the {{Recognition}} of {{Sign Language}} and {{Semaphoric
+  Hand Gestures}}.
+\newblock {\em IEEE Transactions on Multimedia}, 21(1):234--245.
+
+\bibitem[Awad et~al., 2009]{awad_novel_2009}
+Awad, G., Han, J., and Sutherland, A. (2009).
+\newblock Novel {{Boosting Framework}} for {{Subunit}}-{{Based Sign Language
+  Recognition}}.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Image Processing}}
+  ({{ICIP}})}, pages 2729--2732.
+
+\bibitem[Barczak et~al., 2011]{barczak_new_2011}
+Barczak, A. L.~C., Reyes, N.~H., Abastillas, M., Piccio, A., and Susnjak, T.
+  (2011).
+\newblock A new {{2D}} static hand gesture colour image dataset for asl
+  gestures.
+\newblock {\em Research Letters in the Information and Mathematical Sciences},
+  15:12--20.
+
+\bibitem[Bauer and Kraiss, 2002a]{bauer_automatic_2002}
+Bauer, B. and Kraiss, K.-F. (2002a).
+\newblock Towards an {{Automatic Sign Language Recognition System Using
+  Subunits}}.
+\newblock In Wachsmuth, I. and Sowa, T., editors, {\em Gesture and {{Sign
+  Language}} in {{Human}}-{{Computer Interaction}}}, volume 2298 of {\em
+  Lecture {{Notes}} in {{Computer Science}}}, pages 123--173. {Springer Berlin
+  / Heidelberg}.
+
+\bibitem[Bauer and Kraiss, 2002b]{bauer_videobased_2002}
+Bauer, B. and Kraiss, K.~F. (2002b).
+\newblock Video-based sign recognition using self-organizing subunits.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Pattern Recognition}}
+  ({{ICPR}})}, volume~2, pages 434--437, {Quebec, Canada}.
+
+\bibitem[Bauer et~al., 1999]{bauer_automatic_1999}
+Bauer, B., Nie{\ss}en, S., and Hienz, H. (1999).
+\newblock Towards an {{Automatic Sign Language Translation System}}.
+\newblock In {\em Proc. of the {{International Workshop}} on {{Physicality}}
+  and {{Tangibility}} in {{Interaction}}: {{Towards New Paradigms}} for
+  {{Interaction Beyond}} the {{Desktop}}}, {Siena, Italy}.
+
+\bibitem[Bilge et~al., 2019]{bilge_zeroshot_2019}
+Bilge, Y.~C., {Ikizler-Cinbis}, N., and Cinbis, R.~G. (2019).
+\newblock Zero-{{Shot Sign Language Recognition}}: {{Can Textual Data Uncover
+  Sign Languages}}?
+\newblock In {\em Proc. {{British Machine Vision Conference}} ({{BMVC}})},
+  {Cardiff, UK}.
+
+\bibitem[Bowden et~al., 2004]{bowden_linguistic_2004}
+Bowden, R., Windridge, D., Kadir, T., Zisserman, A., and Brady, M. (2004).
+\newblock A {{Linguistic Feature Vector}} for the {{Visual Interpretation}} of
+  {{Sign Language}}.
+\newblock In {\em European {{Conference}} on {{Computer Vision}} ({{ECCV}})},
+  pages 390--401, {Czech Republic, Prague}.
+
+\bibitem[Brashear et~al., 2006]{brashear_american_2006}
+Brashear, H., Henderson, V., Park, K.-H., Hamilton, H., Lee, S., and Starner,
+  T. (2006).
+\newblock American sign language recognition in game development for deaf
+  children.
+\newblock In {\em Proc. {{Int}}. {{ACM SIGACCESS Conf}}. on {{Computers}} and
+  {{Accessibility}} ({{ASSETS}})}, pages 79--86.
+
+\bibitem[Brashear et~al., 2003]{brashear_using_2003}
+Brashear, H., Starner, T., Lukowicz, P., and Junker, H. (2003).
+\newblock Using multiple sensors for mobile sign language recognition.
+\newblock In {\em Proc. {{IEEE Int}}. {{Symposium}} on {{Wearable Computers}}},
+  pages 45--52, {White Plains, NY, USA}.
+
+\bibitem[Buehler et~al., 2010]{buehler_employing_2010}
+Buehler, P., Everingham, M., and Zisserman, A. (2010).
+\newblock Employing signed {{TV}} broadcasts for automated learning of
+  {{British Sign Language}}.
+\newblock In {\em {{LREC Workshop}} on the {{Representation}} and
+  {{Processing}} of {{Sign Languages}}}, pages 22--23, {Valletta, Malta}.
+
+\bibitem[Buehler et~al., 2009]{buehler_learning_2009}
+Buehler, P., Zisserman, A., and Everingham, M. (2009).
+\newblock Learning sign language by watching {{TV}} (using weakly aligned
+  subtitles).
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition}} ({{CVPR}})}, pages 2961--2968, {Miami, FL, USA}.
+
+\bibitem[Camgoz et~al., 2018]{camgoz_neural_2018}
+Camgoz, C., Hadfield, S., Koller, O., Ney, H., and Bowden, R. (2018).
+\newblock Neural {{Sign Language Translation}}.
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition}} ({{CVPR}})}, pages 7784--7793, {Salt Lake City, UT}.
+
+\bibitem[Camgoz et~al., 2017]{camgoz_subunets_2017}
+Camgoz, N.~C., Hadfield, S., Koller, O., and Bowden, R. (2017).
+\newblock {{SubUNets}}: {{End}}-to-end {{Hand Shape}} and {{Continuous Sign
+  Language Recognition}}.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Computer Vision}}
+  ({{ICCV}})}, pages 22--27, {Venice, Italy}.
+
+\bibitem[Camg{\"o}z et~al., 2016]{camgoz_sign_2016}
+Camg{\"o}z, N.~C., K{\i}nd{\i}ro{\u g}lu, A.~A., and Akarun, L. (2016).
+\newblock Sign {{Language Recognition}} for {{Assisting}} the {{Deaf}} in
+  {{Hospitals}}.
+\newblock In Chetouani, M., Cohn, J., and Salah, A.~A., editors, {\em Human
+  {{Behavior Understanding}}}, volume 9997, pages 89--101. {Springer
+  International Publishing}, {Cham}.
+
+\bibitem[Camgoz et~al., 2016]{camgoz_bosphorussign_2016}
+Camgoz, N.~C., Kindiroglu, A.~A., Karabuklu, S., Kelepir, M., Ozsoy, A.~S., and
+  Akarun, L. (2016).
+\newblock {{BosphorusSign}}: {{A Turkish Sign Language Recognition Corpus}} in
+  {{Health}} and {{Finance Domains}}.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Language Resources}} and
+  {{Evaluation}} ({{LREC}})}, pages 1383--1388.
+
+\bibitem[Camgoz et~al., 2020]{camgoz_sign_2020}
+Camgoz, N.~C., Koller, O., Hadfield, S., and Bowden, R. (2020).
+\newblock Sign {{Language Transformers}}: {{Joint End}}-to-end {{Sign Language
+  Recognition}} and {{Translation}}.
+\newblock {\em arXiv:2003.13830 [cs]}.
+
+\bibitem[Caridakis et~al., 2012]{caridakis_non_2012}
+Caridakis, G., Karpouzis, K., Drosopoulos, A., and Kollias, S. (2012).
+\newblock Non parametric, self organizing, scalable modeling of spatiotemporal
+  inputs: {{The}} sign language paradigm.
+\newblock {\em Neural Networks}, 36:157--166.
+
+\bibitem[Chai et~al., 2013]{chai_sign_2013}
+Chai, X., Li, G., Lin, Y., Xu, Z., Tang, Y., Chen, X., and Zhou, M. (2013).
+\newblock Sign language recognition and translation with kinect.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Automatic Face}} and {{Gesture
+  Recognition}} ({{FG}})}, volume 655, page demo.
+
+\bibitem[Chai et~al., 2014]{chai_devisign_2014}
+Chai, X., Wang, H., and Chen, X. (2014).
+\newblock The {{DEVISIGN Large Vocabulary}} of {{Chinese Sign Language
+  Database}} and {{Baseline Evaluations}}.
+\newblock Technical report, {Key Lab of Intelligent Information Processing of
+  Chinese Academy of Sciences}.
+
+\bibitem[Chai et~al., 2015]{chai_communication_2015}
+Chai, X., Wang, H., Yin, F., and Chen, X. (2015).
+\newblock Communication tool for the hard of hearings: {{A}} large vocabulary
+  sign language recognition system.
+\newblock In {\em Int. {{Conf}}. {{Affective Computing}} and {{Intelligent
+  Interaction}} ({{ACII}})}, pages 781--783, {Xian, China}.
+
+\bibitem[Charayaphan and Marble, 1992]{charayaphan_image_1992}
+Charayaphan, C. and Marble, A.~E. (1992).
+\newblock Image processing system for interpreting motion in {{American Sign
+  Language}}.
+\newblock {\em Journal of Biomedical Engineering}, 14(5):419--425.
+
+\bibitem[Cheng et~al., 2015]{cheng_novel_2015}
+Cheng, J., Chen, X., Liu, A., and Peng, H. (2015).
+\newblock A {{Novel Phonology}}- and {{Radical}}-{{Coded Chinese Sign Language
+  Recognition Framework Using Accelerometer}} and {{Surface Electromyography
+  Sensors}}.
+\newblock {\em Sensors}, 15(9):23303--23324.
+
+\bibitem[Cheng et~al., 2020]{cheng_fully_2020}
+Cheng, K.~L., Yang, Z., Chen, Q., and Tai, Y.-W. (2020).
+\newblock Fully {{Convolutional Networks}} for {{Continuous Sign Language
+  Recognition}}.
+\newblock {\em arXiv:2007.12402 [cs]}.
+
+\bibitem[Cooper and Bowden, 2007a]{cooper_large_2007}
+Cooper, H. and Bowden, R. (2007a).
+\newblock Large {{Lexicon Detection}} of {{Sign Language}}.
+\newblock In {\em Human\textendash{{Computer Interaction}}}, Lecture {{Notes}}
+  in {{Computer Science}}, pages 88--97. {Springer, Berlin, Heidelberg}.
+
+\bibitem[Cooper and Bowden, 2007b]{cooper_sign_2007}
+Cooper, H. and Bowden, R. (2007b).
+\newblock Sign language recognition using boosted volumetric features.
+\newblock In {\em Proc. {{IAPR Conf}}. on {{Machine Vision Applications}}},
+  pages 359--362, {Tokyo, Japan}.
+
+\bibitem[Cooper and Bowden, 2009]{cooper_learning_2009}
+Cooper, H. and Bowden, R. (2009).
+\newblock Learning signs from subtitles: {{A}} weakly supervised approach to
+  sign language recognition.
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition}} ({{CVPR}})}, pages 2568--2574, {Miami, FL}.
+
+\bibitem[Cooper and Bowden, 2010]{cooper_sign_2010}
+Cooper, H. and Bowden, R. (2010).
+\newblock Sign {{Language Recognition}} using {{Linguistically Derived
+  Sub}}-{{Units}}.
+\newblock In {\em {{LREC Workshop}} on the {{Representation}} and
+  {{Processing}} of {{Sign Languages}}}, pages 57--61, {Valletta, Malta}.
+
+\bibitem[Cooper et~al., 2012]{cooper_sign_2012}
+Cooper, H., Ong, E.-J., Pugeault, N., and Bowden, R. (2012).
+\newblock Sign language recognition using sub-units.
+\newblock {\em The Journal of Machine Learning Research}, 13(1):2205--2231.
+
+\bibitem[Cooper et~al., 2011]{cooper_reading_2011}
+Cooper, H., Pugeault, N., and Bowden, R. (2011).
+\newblock Reading the signs: {{A}} video based sign dictionary.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Computer Vision
+  Workshops}} ({{ICCVW}})}, pages 914--919.
+
+\bibitem[Cooper, 2010]{cooper_sign_2010a}
+Cooper, H.~M. (2010).
+\newblock {\em Sign {{Language Recognition}} : {{Generalising}} to {{More
+  Complex Corpora}}}.
+\newblock PhD thesis, University Of Surrey, {Guildford, UK}.
+
+\bibitem[Costa~Filho et~al., 2017]{costa_filho_fully_2017}
+Costa~Filho, C. F.~F., de~Souza, R.~S., dos Santos, J.~R., dos Santos, B.~L.,
+  Costa, M. G.~F., Costa~Filho, C. F.~F., de~Souza, R.~S., dos Santos, J.~R.,
+  dos Santos, B.~L., and Costa, M. G.~F. (2017).
+\newblock A fully automatic method for recognizing hand configurations of
+  {{Brazilian}} sign language.
+\newblock {\em Research on Biomedical Engineering}, 33(1):78--89.
+
+\bibitem[Cui et~al., 2017]{cui_recurrent_2017}
+Cui, R., Liu, H., and Zhang, C. (2017).
+\newblock Recurrent {{Convolutional Neural Networks}} for {{Continuous Sign
+  Language Recognition}} by {{Staged Optimization}}.
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition}} ({{CVPR}})}, pages 7361--7369, {Honolulu, HI, USA}.
+
+\bibitem[Cui et~al., 2019]{cui_deep_2019}
+Cui, R., Liu, H., and Zhang, C. (2019).
+\newblock A {{Deep Neural Framework}} for {{Continuous Sign Language
+  Recognition}} by {{Iterative Training}}.
+\newblock {\em IEEE Transactions on Multimedia}, 0:1--1.
+
+\bibitem[Cui and Weng, 2000]{cui_appearancebased_2000}
+Cui, Y. and Weng, J. (2000).
+\newblock Appearance-based hand sign recognition from intensity image
+  sequences.
+\newblock {\em Computer Vision and Image Understanding (CVIU)}, 78(2):157--176.
+
+\bibitem[De~Coster et~al., 2020]{de_coster_sign_2020}
+De~Coster, M., Van~Herreweghe, M., and Dambre, J. (2020).
+\newblock Sign language recognition with transformer networks.
+\newblock In {\em 12th {{International Conference}} on {{Language Resources}}
+  and {{Evaluation}} ({{LREC}} 2020), {{Proceedings}}}, pages 6018--6024.
+  {European Language Resources Association (ELRA)}.
+
+\bibitem[Deng and Tsui, 2002]{deng_twostep_2002}
+Deng, J. and Tsui, H.~T. (2002).
+\newblock A {{Two}}-step {{Approach}} based on {{PaHMM}} for the
+  {{Recognition}} of {{ASL}}.
+\newblock In {\em Asian {{Conf}}. on {{Computer Vision}} ({{ACCV}})}, pages
+  126--131, {Melbourne, Australia}.
+
+\bibitem[Derpanis et~al., 2008]{derpanis_definition_2008}
+Derpanis, K., Wildes, R., and Tsotsos, J. (2008).
+\newblock Definition and recovery of kinematic features for recognition of
+  {{American}} sign language movements.
+\newblock {\em Image and Vision Computing}, 26(12):1650--1662.
+
+\bibitem[Dias et~al., 2009]{dias_hand_2009}
+Dias, D., Madeo, R., Rocha, T., Biscaro, H., and Peres, S. (2009).
+\newblock Hand movement recognition for {{Brazilian Sign Language}}: {{A}}
+  study using distance-based neural networks.
+\newblock In {\em Proc. {{Int}}. {{Joint Conf}}. on {{Neural Networks}}
+  ({{IJCNN}})}, pages 697--704.
+
+\bibitem[Ding and Martinez, 2009]{ding_modelling_2009}
+Ding, L. and Martinez, A.~M. (2009).
+\newblock Modelling and recognition of the linguistic components in {{American
+  Sign Language}}.
+\newblock {\em Image and Vision Computing}, 27(12):1826--1844.
+
+\bibitem[Dreuw, 2008]{dreuw_visual_2008a}
+Dreuw, P. (2008).
+\newblock Visual {{Modeling}} and {{Tracking Adaptation}} for {{Automatic Sign
+  Language Recognition}}.
+\newblock In {\em International {{Computer Vision Summer School}}}, {Sicily,
+  Italy}.
+
+\bibitem[Dreuw, 2012]{dreuw_probabilistic_2012}
+Dreuw, P. (2012).
+\newblock {\em Probabilistic {{Sequence Models}} for {{Image Sequence
+  Processing}} and {{Recognition}}}.
+\newblock PhD thesis, RWTH Aachen University, {Computer Science Department,
+  RWTH Aachen University, Aachen, Germany}.
+
+\bibitem[Dreuw and Ney, 2008]{dreuw_visual_2008}
+Dreuw, P. and Ney, H. (2008).
+\newblock Visual {{Modeling}} and {{Feature Adaptation}} in {{Sign Language
+  Recognition}}.
+\newblock In {\em {{ITG Conference}} on {{Speech Communication}}}, pages 1--4,
+  {Aachen, Germany}.
+
+\bibitem[Dreuw et~al., 2007]{dreuw_speech_2007}
+Dreuw, P., Rybach, D., Deselaers, T., Zahedi, M., and Ney, H. (2007).
+\newblock Speech {{Recognition Techniques}} for a {{Sign Language Recognition
+  System}}.
+\newblock In {\em Proc. of the {{Ann}}. {{Conf}}. of the {{Int}}. {{Speech
+  Commun}}. {{Assoc}}. ({{Interspeech}})}, pages 2513--2516, {Antwerp,
+  Belgium}.
+
+\bibitem[Dreuw et~al., 2009]{dreuw_smoothed_2009}
+Dreuw, P., Steingrube, P., Deselaers, T., and Ney, H. (2009).
+\newblock Smoothed {{Disparity Maps}} for {{Continuous American Sign Language
+  Recognition}}.
+\newblock In {\em Proc. {{Iberian Conf}}. on {{Pattern Recognition}} and
+  {{Image Analysis}} ({{IbPRIA}})}, {{LNCS}}, pages 24--31, {P\'ovoa de Varzim,
+  Portugal}.
+
+\bibitem[Ebling et~al., 2018]{ebling_smile_2018}
+Ebling, S., Camgoz, N., Braem, P., Tissi, K., {Sidler-Miserez}, S., Stoll, S.,
+  Hadfield, S., Haug, T., Bowden, R., Tornay, S., Razavi, M., and
+  {Magimai-Doss}, M. (2018).
+\newblock {{SMILE Swiss German Sign Language Dataset}}.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Language Resources}} and
+  {{Evaluation}} ({{LREC}})}, pages 4221--4229, {Myazaki, Japan}.
+
+\bibitem[Elons et~al., 2013]{elons_proposed_2013}
+Elons, A.~S., {Abull-ela}, M., and Tolba, M.~F. (2013).
+\newblock A proposed {{PCNN}} features quality optimization technique for
+  pose-invariant {{3D Arabic}} sign language recognition.
+\newblock {\em Applied Soft Computing}, 13(4):1646--1660.
+
+\bibitem[Fagiani et~al., 2012]{fagiani_new_2012}
+Fagiani, M., Principi, E., Squartini, S., and Piazza, F. (2012).
+\newblock A {{New Italian Sign Language Database}}.
+\newblock In Zhang, H., Hussain, A., Liu, D., and Wang, Z., editors, {\em
+  Advances in {{Brain Inspired Cognitive Systems}}}, number 7366 in Lecture
+  {{Notes}} in {{Computer Science}}, pages 164--173. {Springer Berlin
+  Heidelberg}.
+
+\bibitem[Fagiani et~al., 2015]{fagiani_signer_2015}
+Fagiani, M., Principi, E., Squartini, S., and Piazza, F. (2015).
+\newblock Signer independent isolated {{Italian}} sign recognition based on
+  hidden {{Markov}} models.
+\newblock {\em Pattern Analysis and Applications}, 18(2):385--402.
+
+\bibitem[Fang et~al., 2017]{fang_deepasl_2017}
+Fang, B., Co, J., and Zhang, M. (2017).
+\newblock {{DeepASL}}: {{Enabling Ubiquitous}} and {{Non}}-{{Intrusive Word}}
+  and {{Sentence}}-{{Level Sign Language Translation}}.
+\newblock In {\em Proceedings of {{SenSys}} 2017}, page~13, {Delft,
+  Netherlands}.
+
+\bibitem[Fang et~al., 2001a]{fang_signerindependent_2001}
+Fang, G., Gao, W., Chen, X., Wang, C., and Ma, J. (2001a).
+\newblock Signer-independent continuous sign language recognition based on
+  {{SRN}}/{{HMM}}.
+\newblock In {\em International {{Gesture Workshop}}}, pages 76--85, {London,
+  UK}.
+
+\bibitem[Fang et~al., 2001b]{fang_signerindependent_2001a}
+Fang, G., Gao, W., and Ma, J. (2001b).
+\newblock Signer-independent sign language recognition based on
+  {{SOFM}}/{{HMM}}.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Computer Vision
+  Workshops}} ({{ICCVW}})}, pages 90--95.
+
+\bibitem[Fang et~al., 2007]{fang_largevocabulary_2007}
+Fang, G., Gao, W., and Zhao, D. (2007).
+\newblock Large-{{Vocabulary Continuous Sign Language Recognition Based}} on
+  {{Transition}}-{{Movement Models}}.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics}, 37(1):1--9.
+
+\bibitem[Farag and Brock, 2019]{farag_learning_2019}
+Farag, I. and Brock, H. (2019).
+\newblock Learning {{Motion Disfluencies}} for {{Automatic Sign Language
+  Segmentation}}.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Acoustics}}, {{Speech}}
+  and {{Signal Processing}} ({{ICASSP}})}, pages 7360--7364.
+
+\bibitem[Farhadi and Forsyth, 2006]{farhadi_aligning_2006}
+Farhadi, A. and Forsyth, D. (2006).
+\newblock Aligning {{ASL}} for statistical translation using a discriminative
+  word model.
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition}} ({{CVPR}})}, volume~2, pages 1471--1476, {New York, NY, USA}.
+
+\bibitem[Fels and Hinton, 1993]{fels_glovetalk_1993}
+Fels, S.~S. and Hinton, G.~E. (1993).
+\newblock Glove-{{Talk}}: A neural network interface between a data-glove and a
+  speech synthesizer.
+\newblock {\em IEEE Transactions on Neural Networks}, 4(1):2--8.
+
+\bibitem[Forster, 2008]{forster_integrated_2008}
+Forster, J. (2008).
+\newblock {\em An {{Integrated Tracking And Recognition Approach For Video}}}.
+\newblock PhD thesis, RWTH Aachen University, {Aachen, Germany}.
+
+\bibitem[Forster et~al., 2013a]{forster_improving_2013}
+Forster, J., Koller, O., Oberd{\"o}rfer, C., Gweth, Y., and Ney, H. (2013a).
+\newblock Improving {{Continuous Sign Language Recognition}}: {{Speech
+  Recognition Techniques}} and {{System Design}}.
+\newblock In {\em Workshop on {{Speech}} and {{Language Processing}} for
+  {{Assistive Technologies}}}, pages 41--46, {Grenoble, France}.
+
+\bibitem[Forster et~al., 2013b]{forster_modality_2013}
+Forster, J., Oberd{\"o}rfer, C., Koller, O., and Ney, H. (2013b).
+\newblock Modality {{Combination Techniques}} for {{Continuous Sign Language
+  Recognition}}.
+\newblock In {\em Proc. {{Iberian Conf}}. on {{Pattern Recognition}} and
+  {{Image Analysis}} ({{IbPRIA}})}, Lecture {{Notes}} in {{Computer Science}}
+  7887, pages 89--99, {Madeira, Portugal}. {Springer}.
+
+\bibitem[Forster et~al., 2012]{forster_rwthphoenixweather_2012}
+Forster, J., Schmidt, C., Hoyoux, T., Koller, O., Zelle, U., Piater, J., and
+  Ney, H. (2012).
+\newblock {{RWTH}}-{{PHOENIX}}-{{Weather}}: {{A Large Vocabulary Sign Language
+  Recognition}} and {{Translation Corpus}}.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Language Resources}} and
+  {{Evaluation}} ({{LREC}})}, pages 3785--3789, {Istanbul, Turkey}.
+
+\bibitem[Forster et~al., 2014]{forster_extensions_2014}
+Forster, J., Schmidt, C., Koller, O., Bellgardt, M., and Ney, H. (2014).
+\newblock Extensions of the {{Sign Language Recognition}} and {{Translation
+  Corpus RWTH}}-{{PHOENIX}}-{{Weather}}.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Language Resources}} and
+  {{Evaluation}} ({{LREC}})}, pages 1911--1916, {Reykjavik, Island}.
+
+\bibitem[Fujimura and {Xia Liu}, 2006]{fujimura_sign_2006}
+Fujimura, K. and {Xia Liu} (2006).
+\newblock Sign recognition using depth image streams.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Automatic Face}} and {{Gesture
+  Recognition}} ({{FG}})}, pages 381--386.
+
+\bibitem[Gao et~al., 2004a]{gao_chinese_2004}
+Gao, W., Fang, G., Zhao, D., and Chen, Y. (2004a).
+\newblock A {{Chinese}} sign language recognition system based on
+  {{SOFM}}/{{SRN}}/{{HMM}}.
+\newblock {\em Pattern Recognition}, 37(12):2389--2402.
+
+\bibitem[Gao et~al., 2004b]{gao_transition_2004}
+Gao, W., Fang, G., Zhao, D., and Chen, Y. (2004b).
+\newblock Transition movement models for large vocabulary continuous sign
+  language recognition.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Automatic Face}} and {{Gesture
+  Recognition}} ({{FG}})}, pages 553--558.
+
+\bibitem[{Garc{\'i}a-Bautista} et~al., 2017]{garcia-bautista_mexican_2017}
+{Garc{\'i}a-Bautista}, G., {Trujillo-Romero}, F., and {Caballero-Morales},
+  S.~O. (2017).
+\newblock Mexican sign language recognition using kinect and data time warping
+  algorithm.
+\newblock In {\em 2017 {{International Conference}} on {{Electronics}},
+  {{Communications}} and {{Computers}} ({{CONIELECOMP}})}, pages 1--5.
+
+\bibitem[Geng et~al., 2014]{geng_chinese_2014}
+Geng, L., Ma, X., Wang, H., Gu, J., and Li, Y. (2014).
+\newblock Chinese sign language recognition with {{3D}} hand motion
+  trajectories and depth images.
+\newblock In {\em Proceeding of the 11th {{World Congress}} on {{Intelligent
+  Control}} and {{Automation}}}, pages 1457--1461.
+
+\bibitem[Grimes, 1983]{grimes_digital_1983}
+Grimes, G.~J. (1983).
+\newblock Digital data entry glove interface device.
+
+\bibitem[Gruber et~al., 2018]{gruber_sign_2018}
+Gruber, I., Ryumin, D., Hr{\'u}z, M., and Karpov, A. (2018).
+\newblock Sign {{Language Numeral Gestures Recognition Using Convolutional
+  Neural Network}}.
+\newblock In Ronzhin, A., Rigoll, G., and Meshcheryakov, R., editors, {\em
+  Interactive {{Collaborative Robotics}}}, Lecture {{Notes}} in {{Computer
+  Science}}, pages 70--77, {Leipzig, Germany}.
+
+\bibitem[Gunawan et~al., 2018]{gunawan_sign_2018}
+Gunawan, a.~H., Thiracitta, N., and Nugroho, A. (2018).
+\newblock Sign {{Language Recognition Using Modified Convolutional Neural
+  Network Model}}.
+\newblock In {\em 2018 {{Indonesian Association}} for {{Pattern Recognition
+  International Conference}} ({{INAPR}})}, pages 1--5.
+
+\bibitem[Guo et~al., 2019]{guo_dense_2019}
+Guo, D., Wang, S., Tian, Q., and Wang, M. (2019).
+\newblock Dense temporal convolution network for sign language translation.
+\newblock In {\em Proc. of the {{AAAI Conf}}. on {{Artificial Intelligence}}},
+  pages 744--750. {AAAI Press}.
+
+\bibitem[Guo et~al., 2017]{guo_online_2017}
+Guo, D., Zhou, W., Li, H., and Wang, M. (2017).
+\newblock Online {{Early}}-{{Late Fusion Based}} on {{Adaptive HMM}} for {{Sign
+  Language Recognition}}.
+\newblock {\em ACM Trans. Multimedia Comput. Commun. Appl.}, 14(1):8:1--8:18.
+
+\bibitem[Guo et~al., 2018]{guo_hierarchical_2018}
+Guo, D., Zhou, W., Li, H., and Wang, M. (2018).
+\newblock Hierarchical {{LSTM}} for {{Sign Language Translation}}.
+\newblock In {\em Proc. of the {{AAAI Conf}}. on {{Artificial Intelligence}}},
+  pages 6845--6852, {New Orleans, Louisiana, USA}.
+
+\bibitem[Gweth et~al., 2012]{gweth_enhanced_2012}
+Gweth, Y., Plahl, C., and Ney, H. (2012).
+\newblock Enhanced {{Continuous Sign Language Recognition}} using {{PCA}} and
+  {{Neural Network Features}}.
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition Workshops}} ({{CVPRW}})}, pages 55--60, {Providence, Rhode
+  Island, USA}.
+
+\bibitem[Han et~al., 2009]{han_modelling_2009}
+Han, J., Awad, G., and Sutherland, A. (2009).
+\newblock Modelling and segmenting subunits for sign language recognition based
+  on hand motion analysis.
+\newblock {\em Pattern Recognition Letters}, 30(6):623--633.
+
+\bibitem[Han et~al., 2013]{han_boosted_2013}
+Han, J., Awad, G., and Sutherland, A. (2013).
+\newblock Boosted subunits: A framework for recognising sign language from
+  videos.
+\newblock {\em IET Image Processing}, 7(1):70--80.
+
+\bibitem[Handhika et~al., 2018]{handhika_gesture_2018}
+Handhika, T., Zen, R. I.~M., {Murni}, Lestari, D.~P., and Sari, I. (2018).
+\newblock Gesture recognition for {{Indonesian Sign Language}} ({{BISINDO}}).
+\newblock {\em Journal of Physics: Conference Series}, 1028:012173.
+
+\bibitem[Hashim and Alizadeh, 2018]{hashim_kurdish_2018}
+Hashim, A.~D. and Alizadeh, F. (2018).
+\newblock Kurdish {{Sign Language Recognition System}}.
+\newblock {\em UKH Journal of Science and Engineering}, 2(1):1--6.
+
+\bibitem[Hassan et~al., 2019]{hassan_multiple_2019}
+Hassan, M., Assaleh, K., and Shanableh, T. (2019).
+\newblock Multiple {{Proposals}} for {{Continuous Arabic Sign Language
+  Recognition}}.
+\newblock {\em Sensing and Imaging}, 20(1):4.
+
+\bibitem[{Hernandez-Rebollar} et~al., 2004]{hernandez-rebollar_new_2004}
+{Hernandez-Rebollar}, J.~L., Kyriakopoulos, N., and Lindeman, R.~W. (2004).
+\newblock A {{New Instrumented Approach}} for {{Translating American Sign
+  Language}} into {{Sound}} and {{Text}}.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Automatic Face}} and {{Gesture
+  Recognition}} ({{FG}})}, pages 547--552.
+
+\bibitem[Holden and Owens, 2000]{holden_visual_2000}
+Holden, E.-J. and Owens, R. (2000).
+\newblock Visual {{Sign Language Recognition}}.
+\newblock In Klette, R., Gimel'farb, G., and Huang, T., editors, {\em
+  Multi-{{Image Analysis}}}, Lecture {{Notes}} in {{Computer Science}}, pages
+  270--287, {Dagstuhl Castle, Germany}.
+
+\bibitem[Hr{\'u}z et~al., 2009]{hruz_input_2009}
+Hr{\'u}z, M., Campr, P., and Karpov, A. (2009).
+\newblock Input and output modalities used in a sign-language-enabled
+  information kiosk.
+\newblock In {\em Proc. of {{SPECOM}}}, volume~1, pages 113--116.
+
+\bibitem[Hu et~al., 2017]{hu_sign_2017}
+Hu, Y., Zhao, H.-F., and Wang, Z.-G. (2017).
+\newblock Sign {{Language Fingerspelling Recognition Using Depth Information}}
+  and {{Deep Belief Networks}}.
+\newblock {\em International Journal of Pattern Recognition and Artificial
+  Intelligence}, 32(06):1850018.
+
+\bibitem[Huang and Huang, 1998]{huang_sign_1998}
+Huang, C.-L. and Huang, W.-Y. (1998).
+\newblock Sign language recognition using model-based tracking and a {{3D
+  Hopfield}} neural network.
+\newblock {\em Machine Vision and Applications}, 10(5):292--307.
+
+\bibitem[Huang et~al., 2015]{huang_sign_2015}
+Huang, J., Zhou, W., Li, H., and Li, W. (2015).
+\newblock Sign {{Language Recognition}} using {{3D}} convolutional neural
+  networks.
+\newblock In {\em {{IEEE Int}}. {{Conf}}. on {{Multimedia}} and {{Expo}}
+  ({{ICME}})}, pages 1--6.
+
+\bibitem[Huang et~al., 2018a]{huang_attention_2018}
+Huang, J., Zhou, W., Li, H., and Li, W. (2018a).
+\newblock Attention based {{3D}}-{{CNNs}} for {{Large}}-{{Vocabulary Sign
+  Language Recognition}}.
+\newblock {\em IEEE Transactions on Circuits and Systems for Video Technology},
+  early access:1--1.
+
+\bibitem[Huang et~al., 2018b]{huang_videobased_2018}
+Huang, J., Zhou, W., Zhang, Q., Li, H., and Li, W. (2018b).
+\newblock Video-based sign language recognition without temporal segmentation.
+\newblock In {\em Proc. of the {{AAAI Conf}}. on {{Artificial Intelligence}}},
+  pages 2257--2264, {New Orleans, Louisiana, USA}.
+
+\bibitem[Huang et~al., 2018c]{huang_novel_2018}
+Huang, S., Mao, C., Tao, J., and Ye, Z. (2018c).
+\newblock A {{Novel Chinese Sign Language Recognition Method Based}} on
+  {{Keyframe}}-{{Centered Clips}}.
+\newblock {\em IEEE Signal Processing Letters}, 25(3):442--446.
+
+\bibitem[Igari and Fukumura, 2014]{igari_sign_2014}
+Igari, S. and Fukumura, N. (2014).
+\newblock Sign language word recognition using via-point information and
+  correlation of they bimanual movements.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. of {{Advanced Informatics}}:
+  {{Concept}}, {{Theory}} and {{Application}} ({{ICAICTA}})}, pages 75--80.
+
+\bibitem[Imagawa et~al., 2000]{imagawa_recognition_2000}
+Imagawa, I., Matsuo, H., Taniguchi, R., Arita, D., {Shan Lu}, and Igi, S.
+  (2000).
+\newblock Recognition of local features for camera-based sign language
+  recognition system.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Pattern Recognition}}
+  ({{ICPR}})}, volume~4, pages 849--853 vol.4.
+
+\bibitem[Infantino et~al., 2007]{infantino_framework_2007}
+Infantino, I., Rizzo, R., and Gaglio, S. (2007).
+\newblock A {{Framework}} for {{Sign Language Sentence Recognition}} by
+  {{Commonsense Context}}.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics},
+  37(5):1034--1039.
+
+\bibitem[Izutov, 2020]{izutov_asl_2020}
+Izutov, E. (2020).
+\newblock {{ASL Recognition}} with {{Metric}}-{{Learning}} based {{Lightweight
+  Network}}.
+\newblock {\em arXiv:2004.05054 [cs]}.
+
+\bibitem[Ji et~al., 2017]{ji_sign_2017}
+Ji, Y., Kim, S., and Lee, K.~B. (2017).
+\newblock Sign {{Language Learning System}} with {{Image Sampling}} and
+  {{Convolutional Neural Network}}.
+\newblock In {\em 2017 {{First IEEE International Conference}} on {{Robotic
+  Computing}} ({{IRC}})}, pages 371--375.
+
+\bibitem[Jose and Julian, 2019]{jose_tamil_2019}
+Jose, H. and Julian, A. (2019).
+\newblock Tamil {{Sign Language Translator}}\textemdash{{An Assistive System}}
+  for {{Hearing}}- and {{Speech}}-{{Impaired People}}.
+\newblock In Satapathy, S.~C. and Joshi, A., editors, {\em Information and
+  {{Communication Technology}} for {{Intelligent Systems}}}, Smart
+  {{Innovation}}, {{Systems}} and {{Technologies}}, pages 249--257. {Springer
+  Singapore}.
+
+\bibitem[Kadir et~al., 2004]{kadir_minimal_2004}
+Kadir, T., Bowden, R., Ong, E.-J., and Zisserman, A. (2004).
+\newblock Minimal {{Training}}, {{Large Lexicon}}, {{Unconstrained Sign
+  Language Recognition}}.
+\newblock In {\em Proc. {{British Machine Vision Conference}} ({{BMVC}})},
+  pages 1--10, {London, UK}.
+
+\bibitem[Kadous, 1996]{kadous_machine_1996}
+Kadous, M.~W. (1996).
+\newblock Machine recognition of {{Auslan}} signs using {{PowerGloves}}:
+  {{Towards}} large-lexicon recognition of sign language.
+\newblock In {\em Proc. of the {{Workshop}} on the {{Integration}} of
+  {{Gesture}} in {{Language}} and {{Speech}}}, pages 165--174, {Wilmington, DE,
+  USA}.
+
+\bibitem[Kadous and Taylor, 1995]{kadous_grasp_1995}
+Kadous, W. and Taylor, S.~A. (1995).
+\newblock {\em {{GRASP}}: {{Recognition}} of {{Australian Sign Language Using
+  Instrumented Gloves}}}.
+\newblock PhD thesis, University of New South Wales, {Sydney, Australia}.
+
+\bibitem[Kapuscinski and Wysocki, 2005]{kapuscinski_recognition_2005}
+Kapuscinski, T. and Wysocki, M. (2005).
+\newblock Recognition of {{Isolated Words}} of the {{Polish Sign Language}}.
+\newblock In {\em Computer {{Recognition Systems}}}, Advances in {{Soft
+  Computing}}, pages 697--704. {Springer, Berlin, Heidelberg}.
+
+\bibitem[Kelly et~al., 2009a]{kelly_recognizing_2009}
+Kelly, D., McDonald, J., and Markham, C. (2009a).
+\newblock Recognizing {{Spatiotemporal Gestures}} and {{Movement Epenthesis}}
+  in {{Sign Language}}.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Machine Vision}} and {{Image
+  Processing}} ({{IMVIP}})}, pages 145--150. {IEEE}.
+
+\bibitem[Kelly et~al., 2011]{kelly_weakly_2011}
+Kelly, D., McDonald, J., and Markham, C. (2011).
+\newblock Weakly {{Supervised Training}} of a {{Sign Language Recognition
+  System Using Multiple Instance Learning Density Matrices}}.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics},
+  41(2):526--541.
+
+\bibitem[Kelly et~al., 2009b]{kelly_framework_2009}
+Kelly, D., Reilly~Delannoy, J., Mc~Donald, J., and Markham, C. (2009b).
+\newblock A {{Framework}} for {{Continuous Multimodal Sign Language
+  Recognition}}.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Multimodal Interfaces}}
+  ({{ICMI}})}, pages 351--358, {Cambridge, MA, USA}.
+
+\bibitem[Kim et~al., 2008]{kim_bichannel_2008}
+Kim, J., Wagner, J., Rehm, M., and Andre, E. (2008).
+\newblock Bi-channel sensor fusion for automatic sign language recognition.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Automatic Face}} and {{Gesture
+  Recognition}} ({{FG}})}, pages 1--6.
+
+\bibitem[Kim et~al., 1996]{kim_dynamic_1996}
+Kim, J.-S., Jang, W., and Bien, Z. (1996).
+\newblock A dynamic gesture recognition system for the {{Korean}} sign language
+  ({{KSL}}).
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics},
+  26(2):354--359.
+
+\bibitem[K{\i}nd{\i}ro{\u g}lu et~al., 2019]{kindiroglu_temporal_2019}
+K{\i}nd{\i}ro{\u g}lu, A.~A., {\"O}zdemir, O., and Akarun, L. (2019).
+\newblock Temporal {{Accumulative Features}} for {{Sign Language Recognition}}.
+\newblock In {\em 2019 {{IEEE}}/{{CVF International Conference}} on {{Computer
+  Vision Workshop}} ({{ICCVW}})}, pages 1288--1297.
+
+\bibitem[Kindiroglu et~al., 2012]{kindiroglu_automatic_2012}
+Kindiroglu, A.~A., Yalcin, H., Aran, O., Hr{\'u}z, M., Campr, P., Akarun, L.,
+  and Karpov, A. (2012).
+\newblock Automatic recognition fingerspelling gestures in multiple languages
+  for a communication interface for the disabled.
+\newblock {\em Pattern Recognition and Image Analysis}, 22(4):527--536.
+
+\bibitem[Kishore et~al., 2018]{kishore_motionlets_2018}
+Kishore, P. V.~V., Kumar, D.~A., Sastry, A. S. C.~S., and Kumar, E.~K. (2018).
+\newblock Motionlets {{Matching With Adaptive Kernels}} for 3-{{D Indian Sign
+  Language Recognition}}.
+\newblock {\em IEEE Sensors Journal}, 18(8):3327--3337.
+
+\bibitem[Kishore and Kumar, 2012]{kishore_video_2012}
+Kishore, P. V.~V. and Kumar, P.~R. (2012).
+\newblock A video based {{Indian Sign Language Recognition System}} ({{INSLR}})
+  using wavelet transform and fuzzy logic.
+\newblock {\em Int. Journal of Engineering and Technology}, 4(5):537.
+
+\bibitem[Kobayashi and Haruyama, 1997]{kobayashi_partlyhidden_1997}
+Kobayashi, T. and Haruyama, S. (1997).
+\newblock Partly-hidden {{Markov}} model and its application to gesture
+  recognition.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Acoustics}}, {{Speech}}
+  and {{Signal Processing}} ({{ICASSP}})}, volume~4, pages 3081 --3084 vol.4.
+
+\bibitem[Koller et~al., 2019]{koller_weakly_2019}
+Koller, O., Camgoz, N.~C., Ney, H., and Bowden, R. (2019).
+\newblock Weakly {{Supervised Learning}} with {{Multi}}-{{Stream
+  CNN}}-{{LSTM}}-{{HMMs}} to {{Discover Sequential Parallelism}} in {{Sign
+  Language Videos}}.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  accepted for publication:15.
+
+\bibitem[Koller et~al., 2015]{koller_continuous_2015}
+Koller, O., Forster, J., and Ney, H. (2015).
+\newblock Continuous sign language recognition: {{Towards}} large vocabulary
+  statistical recognition systems handling multiple signers.
+\newblock {\em Computer Vision and Image Understanding (CVIU)}, 141:108--125.
+
+\bibitem[Koller et~al., 2016a]{koller_automatic_2016}
+Koller, O., Ney, H., and Bowden, R. (2016a).
+\newblock Automatic {{Alignment}} of {{HamNoSys Subunits}} for {{Continuous
+  Sign Language Recognition}}.
+\newblock In {\em {{LREC Workshop}} on the {{Representation}} and
+  {{Processing}} of {{Sign Languages}}}, pages 121--128, {Portoro\v{z},
+  Slovenia}.
+
+\bibitem[Koller et~al., 2016b]{koller_deep_2016}
+Koller, O., Ney, H., and Bowden, R. (2016b).
+\newblock Deep {{Hand}}: {{How}} to {{Train}} a {{CNN}} on 1 {{Million Hand
+  Images When Your Data Is Continuous}} and {{Weakly Labelled}}.
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition}} ({{CVPR}})}, pages 3793--3802, {Las Vegas, NV, USA}.
+
+\bibitem[Koller et~al., 2017]{koller_resign_2017}
+Koller, O., Zargaran, S., and Ney, H. (2017).
+\newblock Re-{{Sign}}: {{Re}}-{{Aligned End}}-{{To}}-{{End Sequence Modelling
+  With Deep Recurrent CNN}}-{{HMMs}}.
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition}} ({{CVPR}})}, pages 4297--4305, {Honolulu, HI, USA}.
+
+\bibitem[Koller et~al., 2016c]{koller16:hybridsign}
+Koller, O., Zargaran, S., Ney, H., and Bowden, R. (2016c).
+\newblock Deep {{Sign}}: {{Hybrid CNN}}-{{HMM}} for {{Continuous Sign Language
+  Recognition}}.
+\newblock In {\em Proc. {{British Machine Vision Conference}} ({{BMVC}})},
+  pages 1--12, {York, UK}.
+
+\bibitem[Koller et~al., 2018]{koller_deep_2018}
+Koller, O., Zargaran, S., Ney, H., and Bowden, R. (2018).
+\newblock Deep {{Sign}}: {{Enabling Robust Statistical Continuous Sign Language
+  Recognition}} via {{Hybrid CNN}}-{{HMMs}}.
+\newblock {\em International Journal of Computer Vision (IJCV)},
+  126(12):1311--1325.
+
+\bibitem[Kong, 2011]{kong_subject_2011}
+Kong, W.~W. (2011).
+\newblock {\em Towards {{Subject Independent Sign Language Recognition}}: {{A
+  Segment}}-{{Based Probabilistic Approach}}}.
+\newblock PhD thesis, National University of Singapore, {Singapore}.
+
+\bibitem[Kong and Ranganath, 2010]{kong_sign_2010}
+Kong, W.~W. and Ranganath, S. (2010).
+\newblock Sign {{Language Phoneme Transcription}} with {{Rule}}-based {{Hand
+  Trajectory Segmentation}}.
+\newblock {\em Journal of Signal Processing Systems}, 59(2):211--222.
+
+\bibitem[Kong and Ranganath, 2014]{kong_subject_2014}
+Kong, W.~W. and Ranganath, S. (2014).
+\newblock Towards {{Subject Independent Continuous Sign Language Recognition}}:
+  {{A Segment}} and {{Merge Approach}}.
+\newblock {\em Pattern Recognition}, 47(3):1294--1308.
+
+\bibitem[Konstantinidis et~al., 2018a]{konstantinidis_deep_2018}
+Konstantinidis, D., Dimitropoulos, K., and Daras, P. (2018a).
+\newblock A {{Deep Learning Approach}} for {{Analyzing Video}} and {{Skeletal
+  Features}} in {{Sign Language Recognition}}.
+\newblock In {\em 2018 {{IEEE International Conference}} on {{Imaging Systems}}
+  and {{Techniques}} ({{IST}})}, pages 1--6.
+
+\bibitem[Konstantinidis et~al., 2018b]{konstantinidis_sign_2018}
+Konstantinidis, D., Dimitropoulos, K., and Daras, P. (2018b).
+\newblock Sign {{Language Recognition Based}} on {{Hand}} and {{Body Skeletal
+  Data}}.
+\newblock In {\em 2018 - {{3DTV}}-{{Conference}}: {{The True Vision}} -
+  {{Capture}}, {{Transmission}} and {{Display}} of {{3D Video}}
+  ({{3DTV}}-{{CON}})}, pages 1--4.
+
+\bibitem[Kosmidou et~al., 2011]{kosmidou_enhanced_2011}
+Kosmidou, V., Petrantonakis, P., and Hadjileontiadis, L. (2011).
+\newblock Enhanced {{Sign Language Recognition Using Weighted
+  Intrinsic}}-{{Mode Entropy}} and {{Signer}}'s {{Level}} of {{Deafness}}.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics},
+  41(6):1531--1543.
+
+\bibitem[Kumar et~al., 2019]{kumar_s3drgf_2019}
+Kumar, D.~A., Sastry, A. S. C.~S., Kishore, P. V.~V., Kumar, E.~K., and Kumar,
+  M. T.~K. (2019).
+\newblock {{S3DRGF}}: {{Spatial}} 3-{{D Relational Geometric Features}} for
+  3-{{D Sign Language Representation}} and {{Recognition}}.
+\newblock {\em IEEE Signal Processing Letters}, 26(1):169--173.
+
+\bibitem[Kumar et~al., 2018a]{kumar_threedimensional_2018}
+Kumar, E.~K., Kishore, P. V.~V., Kumar, M. T.~K., Kumar, D.~A., and Sastry, A.
+  S. C.~S. (2018a).
+\newblock Three-{{Dimensional Sign Language Recognition With Angular Velocity
+  Maps}} and {{Connived Feature ResNet}}.
+\newblock {\em IEEE Signal Processing Letters}, 25(12):1860--1864.
+
+\bibitem[Kumar et~al., 2018b]{kumar_training_2018}
+Kumar, E.~K., Kishore, P. V.~V., Sastry, A. S. C.~S., Kumar, M. T.~K., and
+  Kumar, D.~A. (2018b).
+\newblock Training {{CNNs}} for 3-{{D Sign Language Recognition With Color
+  Texture Coded Joint Angular Displacement Maps}}.
+\newblock {\em IEEE Signal Processing Letters}, 25(5):645--649.
+
+\bibitem[Kumar et~al., 2018c]{kumar_position_2018}
+Kumar, P., Saini, R., Roy, P.~P., and Dogra, D.~P. (2018c).
+\newblock A position and rotation invariant framework for sign language
+  recognition ({{SLR}}) using {{Kinect}}.
+\newblock {\em Multimedia Tools and Applications}, 77(7):8823--8846.
+
+\bibitem[Kumar et~al., 2018d]{kumar_time_2018}
+Kumar, S.~S., Wangyal, T., Saboo, V., and Srinath, R. (2018d).
+\newblock Time {{Series Neural Networks}} for {{Real Time Sign Language
+  Translation}}.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Machine Learning}} and
+  {{Applications}} ({{ICMLA}})}, pages 243--248.
+
+\bibitem[Kuznetsova et~al., 2013]{kuznetsova_realtime_2013}
+Kuznetsova, A., {Leal-Taixe}, L., and Rosenhahn, B. (2013).
+\newblock Real-{{Time Sign Language Recognition Using}} a {{Consumer Depth
+  Camera}}.
+\newblock In {\em Proceedings of the {{IEEE International Conference}} on
+  {{Computer Vision Workshops}}}, pages 83--90, {Sydney, Australia}.
+
+\bibitem[Lang et~al., 2012]{lang_sign_2012}
+Lang, S., Block, M., and Rojas, R. (2012).
+\newblock Sign {{Language Recognition Using Kinect}}.
+\newblock In {\em Artificial {{Intelligence}} and {{Soft Computing}}}, Lecture
+  {{Notes}} in {{Computer Science}}, pages 394--402. {Springer, Berlin,
+  Heidelberg}.
+
+\bibitem[Latif et~al., 2019]{latif_arasl_2019}
+Latif, G., Mohammad, N., Alghazo, J., AlKhalaf, R., and AlKhalaf, R. (2019).
+\newblock {{ArASL}}: {{Arabic Alphabets Sign Language Dataset}}.
+\newblock {\em Data in Brief}, 23:103777.
+
+\bibitem[Lee and Lee, 2018]{lee_smart_2018}
+Lee, B.~G. and Lee, S.~M. (2018).
+\newblock Smart {{Wearable Hand Device}} for {{Sign Language Interpretation
+  System With Sensors Fusion}}.
+\newblock {\em IEEE Sensors Journal}, 18(3):1224--1232.
+
+\bibitem[Lee et~al., 1997]{lee_realtime_1997}
+Lee, C.-S., Bien, Z., Park, G.-T., Jang, W., Kim, J.-S., and Kim, S.-K. (1997).
+\newblock Real-time recognition system of {{Korean}} sign language based on
+  elementary components.
+\newblock In {\em Proc. {{Int}}. {{Fuzzy Systems Conference}}}, volume~3, pages
+  1463--1468.
+
+\bibitem[Li et~al., 2020a]{li_wordlevel_2020}
+Li, D., Opazo, C.~R., Yu, X., and Li, H. (2020a).
+\newblock Word-level {{Deep Sign Language Recognition}} from {{Video}}: {{A New
+  Large}}-scale {{Dataset}} and {{Methods Comparison}}.
+\newblock {\em arXiv:1910.11006 [cs]}.
+
+\bibitem[Li et~al., 2020b]{li_transferring_2020}
+Li, D., Yu, X., Xu, C., Petersson, L., and Li, H. (2020b).
+\newblock Transferring {{Cross}}-{{Domain Knowledge}} for {{Video Sign Language
+  Recognition}}.
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition}} ({{CVPR}})}, pages 6205--6214.
+
+\bibitem[Li et~al., 2016]{li_sign_2016}
+Li, K., Zhou, Z., and Lee, C.-H. (2016).
+\newblock Sign {{Transition Modeling}} and a {{Scalable Solution}} to
+  {{Continuous Sign Language Recognition}} for {{Real}}-{{World Applications}}.
+\newblock {\em ACM Transactions on Accessible Computing (TACCESS)},
+  8(2):7:1--7:23.
+
+\bibitem[Li et~al., 2017]{li_chinese_2017}
+Li, X., Mao, C., Huang, S., and Ye, Z. (2017).
+\newblock Chinese {{Sign Language Recognition Based}} on {{SHS Descriptor}} and
+  {{Encoder}}-{{Decoder LSTM Model}}.
+\newblock In {\em Biometric {{Recognition}}}, Lecture {{Notes}} in {{Computer
+  Science}}, pages 719--728.
+
+\bibitem[Liang and Ouhyoung, 1995]{liang_realtime_1995}
+Liang, R.-H. and Ouhyoung, M. (1995).
+\newblock A {{Real}}-time {{Continuous Alphabetic Sign Language}} to {{Speech
+  Conversion VR System}}.
+\newblock In {\em Computer {{Graphics Forum}}}, volume~14, pages 67--76. {Wiley
+  Online Library}.
+
+\bibitem[Liang and Ouhyoung, 1998]{liang_realtime_1998}
+Liang, R.-H. and Ouhyoung, M. (1998).
+\newblock A {{Real}}-{{Time Continuous Gesture Recognition System}} for {{Sign
+  Language}}.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Automatic Face}} and {{Gesture
+  Recognition}} ({{FG}})}, pages 558--567, {Nara, Japan}.
+
+\bibitem[Liao et~al., 2019]{liao_dynamic_2019}
+Liao, Y., Xiong, P., Min, W., Min, W., and Lu, J. (2019).
+\newblock Dynamic {{Sign Language Recognition Based}} on {{Video Sequence With
+  BLSTM}}-{{3D Residual Networks}}.
+\newblock {\em IEEE Access}, 7:38044--38054.
+
+\bibitem[Lichtenauer et~al., 2008]{lichtenauer_sign_2008}
+Lichtenauer, J.~F., Hendriks, E.~A., and Reinders, M. J.~T. (2008).
+\newblock Sign {{Language Recognition}} by {{Combining Statistical DTW}} and
+  {{Independent Classification}}.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  30(11):2040--2046.
+
+\bibitem[Lichtenauer et~al., 2009]{lichtenauer_personindependent_2009}
+Lichtenauer, J.~F., {ten Holt}, G.~A., Reinders, M. J.~T., and Hendriks, E.~A.
+  (2009).
+\newblock Person-{{Independent 3D Sign Language Recognition}}.
+\newblock In Sales~Dias, M., Gibet, S., Wanderley, M.~M., and Bastos, R.,
+  editors, {\em Gesture-{{Based Human}}-{{Computer Interaction}} and
+  {{Simulation}}}, Lecture {{Notes}} in {{Computer Science}}, pages 69--80,
+  {Lisbon, Portugal}.
+
+\bibitem[Lim et~al., 2016]{lim_feature_2016}
+Lim, K.~M., Tan, A. W.~C., and Tan, S.~C. (2016).
+\newblock A feature covariance matrix with serial particle filter for isolated
+  sign language recognition.
+\newblock {\em Expert Systems with Applications}, 54:208--218.
+
+\bibitem[Liu et~al., 2016]{liu_sign_2016}
+Liu, T., Zhou, W., and Li, H. (2016).
+\newblock Sign {{Language Recognition}} with {{Long Short}}-{{Term Memory}}.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Image Processing}}
+  ({{ICIP}})}, pages 2871--2875.
+
+\bibitem[Liu et~al., 2018]{liu_selfboosted_2018}
+Liu, Z., Qi, X., and Pang, L. (2018).
+\newblock Self-boosted {{Gesture Interactive System}} with {{ST}}-{{Net}}.
+\newblock In {\em Proceedings of the 26th {{ACM}} International Conference on
+  {{Multimedia}}}, {{MM}} '18, pages 145--153, {Seoul, Republic of Korea}.
+  {Association for Computing Machinery}.
+
+\bibitem[Liwicki and Everingham, 2009]{liwicki_automatic_2009}
+Liwicki, S. and Everingham, M. (2009).
+\newblock Automatic recognition of fingerspelled words in {{British Sign
+  Language}}.
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition Workshops}} ({{CVPRW}})}, pages 50--57.
+
+\bibitem[Ma et~al., 2000]{ma_parallel_2000}
+Ma, J., Gao, W., and Wang, R. (2000).
+\newblock A {{Parallel Multistream Model}} for {{Integration}} of {{Sign
+  Language Recognition}} and {{Lip Motion}}.
+\newblock In Tan, T., Shi, Y., and Gao, W., editors, {\em Advances in
+  {{Multimodal Interfaces}} \textemdash{} {{ICMI}} 2000}, number 1948 in
+  Lecture {{Notes}} in {{Computer Science}}, pages 582--589. {Springer Berlin
+  Heidelberg}.
+
+\bibitem[Ma et~al., 2018]{ma_signfi_2018}
+Ma, Y., Zhou, G., Wang, S., Zhao, H., and Jung, W. (2018).
+\newblock {{SignFi}}: {{Sign Language Recognition Using WiFi}}.
+\newblock {\em Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.},
+  2(1):23:1--23:21.
+
+\bibitem[Maebatake et~al., 2008]{maebatake_sign_2008}
+Maebatake, M., Suzuki, I., Nishida, M., Horiuchi, Y., and Kuroiwa, S. (2008).
+\newblock Sign {{Language Recognition Based}} on {{Position}} and {{Movement
+  Using Multi}}-{{Stream HMM}}.
+\newblock In {\em 2008 {{Second International Symposium}} on {{Universal
+  Communication}}}, pages 478--481, {Osaka, Japan}.
+
+\bibitem[Maraqa and {Abu-Zaiter}, 2008]{maraqa_recognition_2008}
+Maraqa, M. and {Abu-Zaiter}, R. (2008).
+\newblock Recognition of {{Arabic Sign Language}} ({{ArSL}}) using recurrent
+  neural networks.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Applications}} of {{Digital
+  Information}} and {{Web Technologies}} ({{ICADIWT}})}, pages 478--481.
+
+\bibitem[Mathur and Sharma, 2018]{mathur_sign_2018}
+Mathur, S. and Sharma, P. (2018).
+\newblock Sign {{Language Gesture Recognition}} using {{Zernike Moments}} and
+  {{DTW}}.
+\newblock In {\em 2018 5th {{International Conference}} on {{Signal
+  Processing}} and {{Integrated Networks}} ({{SPIN}})}, pages 586--591.
+
+\bibitem[Matsuo et~al., 1997]{matsuo_recognition_1997}
+Matsuo, H., Igi, S., Lu, S., Nagashima, Y., Takata, Y., and Teshima, T. (1997).
+\newblock The recognition algorithm with non-contact for {{Japanese}} sign
+  language using morphological analysis.
+\newblock In Wachsmuth, I. and Fr{\"o}hlich, M., editors, {\em Gesture and
+  {{Sign Language}} in {{Human}}-{{Computer Interaction}}}, Lecture {{Notes}}
+  in {{Computer Science}}, pages 273--284, {Bielefeld, Germany}.
+
+\bibitem[McGuire et~al., 2004]{mcguire_oneway_2004}
+McGuire, R.~M., {Hernandez-Rebollar}, J., Starner, T., Henderson, V., Brashear,
+  H., and Ross, D.~S. (2004).
+\newblock Towards a one-way {{American}} sign language translator.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Automatic Face}} and {{Gesture
+  Recognition}} ({{FG}})}, pages 620--625.
+
+\bibitem[Mekala et~al., 2011]{mekala_realtime_2011}
+Mekala, P., Gao, Y., Fan, J., and Davari, A. (2011).
+\newblock Real-time sign language recognition based on neural network
+  architecture.
+\newblock In {\em {{IEEE Southeastern Symposium}} on {{System Theory}}
+  ({{SSST}})}, pages 195--199, {Auburn, AL, USA}.
+
+\bibitem[Mittal et~al., 2019]{mittal_modifiedlstm_2019}
+Mittal, A., Kumar, P., Roy, P.~P., Balasubramanian, R., and Chaudhuri, B.~B.
+  (2019).
+\newblock A {{Modified}}-{{LSTM Model}} for {{Continuous Sign Language
+  Recognition}} using {{Leap}} motion.
+\newblock {\em IEEE Sensors Journal}, early access:1--1.
+
+\bibitem[Mohandes et~al., 2014]{mohandes_arabic_2014}
+Mohandes, M., Aliyu, S., and Deriche, M. (2014).
+\newblock Arabic sign language recognition using the leap motion controller.
+\newblock In {\em Proc. {{IEEE Int}}. {{Symposium}} on {{Industrial
+  Electronics}} ({{ISIE}})}, pages 960--965.
+
+\bibitem[Mohandes and Deriche, 2013]{mohandes_arabic_2013}
+Mohandes, M. and Deriche, M. (2013).
+\newblock Arabic sign language recognition by decisions fusion using
+  {{Dempster}}-{{Shafer}} theory of evidence.
+\newblock In {\em Computing, {{Communications}} and {{IT Applications Conf}}.
+  ({{ComComAp}})}, pages 90--94.
+
+\bibitem[Mohandes et~al., 2012]{mohandes_signerindependent_2012}
+Mohandes, M., Deriche, M., Johar, U., and Ilyas, S. (2012).
+\newblock A signer-independent {{Arabic Sign Language}} recognition system
+  using face detection, geometric features, and a {{Hidden Markov Model}}.
+\newblock {\em Computers and Electrical Engineering}, 38(2):422--433.
+
+\bibitem[Mohandes et~al., 2007]{mohandes_arabic_2007}
+Mohandes, M., Quadri, S.~I., and Deriche, M. (2007).
+\newblock Arabic {{Sign Language Recognition}} an {{Image}}-{{Based Approach}}.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Advanced Information
+  Networking}} and {{Applications Workshops}} ({{AINAW}})}, volume~1, pages
+  272--276.
+
+\bibitem[Mohandes, 2013]{mohandes_recognition_2013}
+Mohandes, M.~A. (2013).
+\newblock Recognition of {{Two}}-{{Handed Arabic Signs Using}} the
+  {{CyberGlove}}.
+\newblock {\em Arabian Journal for Science and Engineering}, 38(3):669--677.
+
+\bibitem[Mukushev et~al., 2020]{mukushev_evaluation_2020}
+Mukushev, M., Sabyrov, A., Imashev, A., Koishybay, K., Kimmelman, V., and
+  Sandygulova, A. (2020).
+\newblock Evaluation of {{Manual}} and {{Non}}-manual {{Components}} for {{Sign
+  Language Recognition}}.
+\newblock In {\em Proceedings of {{The}} 12th {{Language Resources}} and
+  {{Evaluation Conference}}}, pages 6073--6078, {Marseille, France}. {European
+  Language Resources Association}.
+
+\bibitem[Murakami and Taguchi, 1991]{murakami_gesture_1991}
+Murakami, K. and Taguchi, H. (1991).
+\newblock Gesture recognition using recurrent neural networks.
+\newblock In {\em Proc. of the {{SIGCHI Conf}}. on {{Human Factors}} in
+  {{Computing Systems}}}, pages 237--242. {ACM}.
+
+\bibitem[Nagendraswamy et~al., 2015]{nagendraswamy_symbolic_2015}
+Nagendraswamy, H.~S., Guru, D.~S., and Naresh, Y.~G. (2015).
+\newblock Symbolic {{Representation}} of {{Sign Language}} at {{Sentence
+  Level}}.
+\newblock {\em International Journal of Image, Graphics and Signal
+  Processing(IJIGSP)}, 7(9):49--60.
+
+\bibitem[Nagendraswamy and Kumara, 2016]{nagendraswamy_lbpv_2016}
+Nagendraswamy, H.~S. and Kumara, B.~M. (2016).
+\newblock {{LBPV}} for {{Recognition}} of {{Sign Language}} at {{Sentence
+  Level}}: {{An Approach Based}} on {{Symbolic Representation}}.
+\newblock {\em Journal of Intelligent Systems}, 26(2):371--385.
+
+\bibitem[Nayak et~al., 2005]{nayak_unsupervised_2005}
+Nayak, S., Sarkar, S., and Loeding, B. (2005).
+\newblock Unsupervised modeling of signs embedded in continuous sentences.
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition Workshops}} ({{CVPRW}})}, pages 81--81.
+
+\bibitem[Neidle and Vogler, 2012]{neidle_new_2012}
+Neidle, C. and Vogler, C. (2012).
+\newblock A new web interface to facilitate access to corpora: Development of
+  the {{ASLLRP}} data access interface.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Language Resources}} and
+  {{Evaluation}} ({{LREC}})}, pages 137--142, {Istanbul, Turkey}. {ELRA}.
+
+\bibitem[Neto et~al., 2015]{neto_extreme_2015}
+Neto, F. M. d.~P., Cambuim, L.~F., Macieira, R.~M., Ludermir, T.~B.,
+  Zanchettin, C., and Barros, E.~N. (2015).
+\newblock Extreme {{Learning Machine}} for {{Real Time Recognition}} of
+  {{Brazilian Sign Language}}.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Systems}}, {{Man}}, and
+  {{Cybernetics}} ({{SMC}})}, pages 1464--1469.
+
+\bibitem[Oberd{\"o}rfer et~al., 2012]{oberdorfer_investigations_2012}
+Oberd{\"o}rfer, C., Oberd{\"o}rfer, C., Leibe, B., and Forster, J. (2012).
+\newblock Investigations on {{Decoding}} of {{Parallel Input Streams}} in
+  {{Sign Language}}.
+\newblock Master's thesis, RWTH Aachen University, {Aachen, Germany}.
+
+\bibitem[O'Connor et~al., 2017]{oconnor_language_2017}
+O'Connor, T.~F., Fach, M.~E., Miller, R., Root, S.~E., Mercier, P.~P., and
+  Lipomi, D.~J. (2017).
+\newblock The {{Language}} of {{Glove}}: {{Wireless}} gesture decoder with
+  low-power and stretchable hybrid electronics.
+\newblock {\em PLOS ONE}, 12(7):e0179766.
+
+\bibitem[Ong et~al., 2012]{ong_sign_2012}
+Ong, E.-J., Cooper, H., Pugeault, N., and Bowden, R. (2012).
+\newblock Sign {{Language Recognition}} using {{Sequential Pattern Trees}}.
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition}} ({{CVPR}})}, pages 2200--2207.
+
+\bibitem[Ong et~al., 2014]{ong_sign_2014}
+Ong, E.-J., Koller, O., Pugeault, N., and Bowden, R. (2014).
+\newblock Sign {{Spotting}} using {{Hierarchical Sequential Patterns}} with
+  {{Temporal Intervals}}.
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition}} ({{CVPR}})}, pages 1931--1938, {Columbus, OH, USA}.
+
+\bibitem[Oszust and Wysocki, 2010]{oszust_determining_2010}
+Oszust, M. and Wysocki, M. (2010).
+\newblock Determining {{Subunits}} for {{Sign Language Recognition}} by
+  {{Evolutionary Cluster}}-{{Based Segmentation}} of {{Time Series}}.
+\newblock In Rutkowski, L., Scherer, R., Tadeusiewicz, R., Zadeh, L., and
+  Zurada, J., editors, {\em Artifical {{Intelligence}} and {{Soft Computing}}},
+  volume 6114 of {\em Lecture {{Notes}} in {{Computer Science}}}, pages
+  189--196. {Springer Berlin Heidelberg}.
+
+\bibitem[Oszust and Wysocki, 2013a]{oszust_polish_2013}
+Oszust, M. and Wysocki, M. (2013a).
+\newblock Polish sign language words recognition with {{Kinect}}.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Human System Interactions}}
+  ({{HSI}})}, pages 219--226.
+
+\bibitem[Oszust and Wysocki, 2013b]{oszust_recognition_2013}
+Oszust, M. and Wysocki, M. (2013b).
+\newblock Recognition of signed expressions observed by {{Kinect Sensor}}.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Advanced Video}} and
+  {{Signal Based Surveillance}}}, pages 220--225.
+
+\bibitem[Ouhyoung and Liang, 1996]{ouhyoung_sign_1996}
+Ouhyoung, M. and Liang, R.~H. (1996).
+\newblock A sign language recognition system using hidden markov model and
+  context sensitive search.
+\newblock In {\em Proceedings of the {{ACM}} Symposium on Virtual Reality
+  Software and Technology}, pages 59--66.
+
+\bibitem[Oz and Leu, 2005]{oz_linguistic_2005}
+Oz, C. and Leu, M.~C. (2005).
+\newblock Linguistic {{Properties Based}} on {{American Sign Language
+  Recognition}} with {{Artificial Neural Networks Using}} a {{Sensory Glove}}
+  and {{Motion Tracker}}.
+\newblock In {\em Computational {{Intelligence}} and {{Bioinspired Systems}}},
+  Lecture {{Notes}} in {{Computer Science}}, pages 1197--1205. {Springer,
+  Berlin, Heidelberg}.
+
+\bibitem[{\"O}zdemir et~al., 2020]{ozdemir_bosphorussign22k_2020}
+{\"O}zdemir, O., K{\i}nd{\i}ro{\u g}lu, A.~A., Camg{\"o}z, N.~C., and Akarun,
+  L. (2020).
+\newblock {{BosphorusSign22k Sign Language Recognition Dataset}}.
+\newblock {\em arXiv:2004.01283 [cs]}.
+
+\bibitem[Papastratis et~al., 2020]{papastratis_continuous_2020}
+Papastratis, I., Dimitropoulos, K., Konstantinidis, D., and Daras, P. (2020).
+\newblock Continuous {{Sign Language Recognition Through Cross}}-{{Modal
+  Alignment}} of {{Video}} and {{Text Embeddings}} in a {{Joint}}-{{Latent
+  Space}}.
+\newblock {\em IEEE Access}, 8:91170--91180.
+
+\bibitem[Paudyal et~al., 2019]{paudyal_learn2sign_2019}
+Paudyal, P., Lee, J., Kamzin, A., Soudki, M., Banerjee, A., and Gupta, S.
+  (2019).
+\newblock {Learn2Sign: Explainable AI for sign language learning}.
+\newblock In {\em {CEUR Workshop Proceedings}}, volume 2327.
+
+\bibitem[Paulraj et~al., 2010]{paulraj_phoneme_2010}
+Paulraj, M.~P., Yaacob, S., Azalan, B.~Z., Shuhanaz, M., and Palaniappan, R.
+  (2010).
+\newblock A phoneme based sign language recognition system using skin color
+  segmentation.
+\newblock In {\em Int. {{Colloquium}} on {{Signal Processing}} and {{Its
+  Applications}} ({{CSPA}})}, pages 1--5, {Malacca City, Malaysia}.
+
+\bibitem[Paulraj et~al., 2008]{paulraj_extraction_2008}
+Paulraj, M.~P., Yaacob, S., Desa, H., Hema, C.~R., Ridzuan, W.~M., and Majid,
+  W.~A. (2008).
+\newblock Extraction of head and hand gesture features for recognition of sign
+  language.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Electronic Design}}}, pages
+  1--6.
+
+\bibitem[Pei et~al., 2019]{pei_continuous_2019}
+Pei, X., Guo, D., and Zhao, Y. (2019).
+\newblock Continuous {{Sign Language Recognition Based}} on
+  {{Pseudo}}-supervised {{Learning}}.
+\newblock In {\em Proceedings of the {{2Nd Workshop}} on {{Multimedia}} for
+  {{Accessible Human Computer Interfaces}}}, {{MAHCI}} '19, pages 33--39, {New
+  York, NY, USA}. {ACM}.
+
+\bibitem[Pezzuoli et~al., 2017]{pezzuoli_development_2017}
+Pezzuoli, F., Corona, D., Corradini, M.~L., and Cristofaro, A. (2017).
+\newblock Development of a {{Wearable Device}} for {{Sign Language
+  Translation}}.
+\newblock In Ficuciello, F., Ruggiero, F., and Finzi, A., editors, {\em Human
+  {{Friendly Robotics}}}, Springer {{Proceedings}} in {{Advanced Robotics}},
+  pages 115--126.
+
+\bibitem[Pfau and Quer, 2010]{pfau_nonmanuals_2010}
+Pfau, R. and Quer, J. (2010).
+\newblock Nonmanuals: Their grammatical and prosodic roles.
+\newblock In Brentari, D., editor, {\em Sign {{Languages}}}, pages 381--402.
+  {Cambridge University Press}, {Cambrigde, UK}.
+
+\bibitem[Pigou et~al., 2016]{pigou_sign_2016}
+Pigou, L., Van~Herreweghe, M., and Dambre, J. (2016).
+\newblock Sign classification in sign language {{Corpora}} with deep neural
+  networks.
+\newblock In {\em International {{Conference}} on {{Language Resources}} and
+  {{Evaluation}} ({{LREC}}), {{Workshop}}, {{Proceedings}}}, pages 175--178.
+
+\bibitem[Pigou et~al., 2017]{pigou_gesture_2017}
+Pigou, L., Van~Herreweghe, M., and Dambre, J. (2017).
+\newblock Gesture and {{Sign Language Recognition With Temporal Residual
+  Networks}}.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Computer Vision
+  Workshops}} ({{ICCVW}})}, pages 3086--3093, {Venice, Italy}.
+
+\bibitem[Pitsikalis et~al., 2010]{pitsikalis_datadriven_2010}
+Pitsikalis, V., Theodorakis, S., and Maragos, P. (2010).
+\newblock Data-{{Driven Sub}}-{{Units}} and {{Modeling Structure}} for
+  {{Continuous Sign Language Recognition}} with {{Multiple Cues}}.
+\newblock In {\em {{LREC Workshop}} on the {{Representation}} and
+  {{Processing}} of {{Sign Languages}}}, pages 196--203.
+
+\bibitem[Pitsikalis et~al., 2011]{pitsikalis_advances_2011}
+Pitsikalis, V., Theodorakis, S., Vogler, C., and Maragos, P. (2011).
+\newblock Advances in phonetics-based sub-unit modeling for transcription
+  alignment and sign language recognition.
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition Workshops}} ({{CVPRW}})}, pages 1--6.
+
+\bibitem[Pu et~al., 2016a]{pu_sign_2016a}
+Pu, J., Zhou, W., and Li, H. (2016a).
+\newblock Sign {{Language Recognition}} with {{Multi}}-modal {{Features}}.
+\newblock In {\em Proc. {{Advances}} in {{Multimedia Information Processing}}},
+  pages 252--261.
+
+\bibitem[Pu et~al., 2018]{pu_dilated_2018}
+Pu, J., Zhou, W., and Li, H. (2018).
+\newblock Dilated {{Convolutional Network}} with {{Iterative Optimization}} for
+  {{Continuous Sign Language Recognition}}.
+\newblock In {\em {{IJCAI}}}, pages 885--891, {Stockholm, Sweden}.
+
+\bibitem[Pu et~al., 2019]{pu_iterative_2019}
+Pu, J., Zhou, W., and Li, H. (2019).
+\newblock Iterative {{Alignment Network}} for {{Continuous Sign Language
+  Recognition}}.
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition}} ({{CVPR}})}, page~10.
+
+\bibitem[Pu et~al., 2016b]{pu_sign_2016}
+Pu, J., Zhou, W., Zhang, J., and Li, H. (2016b).
+\newblock Sign {{Language Recognition Based}} on {{Trajectory Modeling}} with
+  {{HMMs}}.
+\newblock In {\em Int. {{Conf}}. on {{Multimedia Modeling}}}, Lecture {{Notes}}
+  in {{Computer Science}}, pages 686--697.
+
+\bibitem[Pugeault and Bowden, 2011]{pugeault_spelling_2011}
+Pugeault, N. and Bowden, R. (2011).
+\newblock Spelling {{It Out}}: {{Real}}\textendash{{Time ASL Fingerspelling
+  Recognition}}.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Computer Vision
+  Workshops}} ({{ICCVW}})}, pages 1114--1119, {Barcelona, Spain}.
+
+\bibitem[Quiroga et~al., 2017]{quiroga_study_2017}
+Quiroga, F., Antonio, R., Ronchetti, F., Lanzarini, L.~C., and Rosete, A.
+  (2017).
+\newblock A {{Study}} of {{Convolutional Architectures}} for {{Handshape
+  Recognition}} applied to {{Sign Language}}.
+\newblock In {\em {{XXIII Congreso Argentino}} de {{Ciencias}} de La
+  {{Computaci\'on}}}, pages 13--22, {La Plata, Argentinia}.
+
+\bibitem[Rakowski and Wandzik, 2018]{rakowski_hand_2018}
+Rakowski, A. and Wandzik, L. (2018).
+\newblock Hand {{Shape Recognition Using Very Deep Convolutional Neural
+  Networks}}.
+\newblock In {\em Proceedings of the 2018 {{International Conference}} on
+  {{Control}} and {{Computer Vision}}}, {{ICCCV}} '18, pages 8--12, {Singapore,
+  Singapore}. {ACM}.
+
+\bibitem[Rao and Kishore, 2018]{rao_selfie_2018}
+Rao, G.~A. and Kishore, P. V.~V. (2018).
+\newblock Selfie video based continuous {{Indian}} sign language recognition
+  system.
+\newblock {\em Ain Shams Engineering Journal}, 9(4):1929--1939.
+
+\bibitem[Rao et~al., 2018]{rao_deep_2018}
+Rao, G.~A., Syamala, K., Kishore, P. V.~V., and Sastry, A. S. C.~S. (2018).
+\newblock Deep convolutional neural networks for sign language recognition.
+\newblock In {\em Proc. {{Conf}}. on {{Signal Processing And Communication
+  Engineering Systems}} ({{SPACES}})}, pages 194--197.
+
+\bibitem[Rekha et~al., 2011]{rekha_hand_2011}
+Rekha, J., Bhattacharya, J., and Majumder, S. (2011).
+\newblock Hand {{Gesture Recognition}} for {{Sign Language}}: {{A New Hybrid
+  Approach}}.
+\newblock In {\em Int. {{Conf}}. {{Image Processing}}, {{Computer Vision}}, and
+  {{Pattern Recognition}}}, pages 80--86, {Las Vegas, NV, USA}.
+
+\bibitem[Ronchetti et~al., 2016]{ronchetti_handshape_2016}
+Ronchetti, F., Quiroga, F., Lanzarini, L., and Estrebou, C. (2016).
+\newblock Handshape {{Recognition}} for {{Argentinian Sign Language}} using
+  {{ProbSom}}.
+\newblock {\em Journal of Computer Science and Technology}, 16(1):1--5.
+
+\bibitem[Roussos et~al., 2013]{roussos_dynamic_2013}
+Roussos, A., Theodorakis, S., Pitsikalis, V., and Maragos, P. (2013).
+\newblock Dynamic affine-invariant shape-appearance handshape features and
+  classification in sign language videos.
+\newblock {\em The Journal of Machine Learning Research}, 14(1):1627--1663.
+
+\bibitem[Rybach, 2006]{rybach_appearancebased_2006}
+Rybach, D. (2006).
+\newblock {\em Appearance-{{Based Features}} for {{Automatic Continuous Sign
+  Language Recognition}}}.
+\newblock PhD thesis, Human Language Technology and Pattern Recognition Group,
+  RWTH Aachen University, {Aachen, Germany}.
+
+\bibitem[Sabyrov et~al., 2019]{sabyrov_realtime_2019}
+Sabyrov, A., Mukushev, M., and Kimmelman, V. (2019).
+\newblock Towards {{Real}}-time {{Sign Language Interpreting Robot}}:
+  {{Evaluation}} of {{Non}}-manual {{Components}} on {{Recognition Accuracy}}.
+\newblock In {\em Proceedings of the {{IEEE}}/{{CVF Conference}} on {{Computer
+  Vision}} and {{Pattern Recognition Workshops}}}, pages 75--82.
+
+\bibitem[Sagawa and Takeuchi, 2000]{sagawa_method_2000}
+Sagawa, H. and Takeuchi, M. (2000).
+\newblock A method for recognizing a sequence of sign language words
+  represented in a {{Japanese}} sign language sentence.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Automatic Face}} and {{Gesture
+  Recognition}} ({{FG}})}, pages 434--439, {Grenoble, France}.
+
+\bibitem[Santemiz et~al., 2009]{santemiz_automatic_2009}
+Santemiz, P., Aran, O., Saraclar, M., and Akarun, L. (2009).
+\newblock Automatic sign segmentation from continuous signing via multiple
+  sequence alignment.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Computer Vision
+  Workshops}} ({{ICCVW}})}, pages 2001--2008. {IEEE}.
+
+\bibitem[Sarkar et~al., 2011]{sarkar_segmentationrobust_2011}
+Sarkar, S., Loeding, B., Yang, R., Nayak, S., and Parashar, A. (2011).
+\newblock Segmentation-robust representations, matching, and modeling for sign
+  language.
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition Workshops}} ({{CVPRW}})}, pages 13--19.
+
+\bibitem[Shanableh and Assaleh, 2011]{shanableh_userindependent_2011}
+Shanableh, T. and Assaleh, K. (2011).
+\newblock User-independent recognition of {{Arabic}} sign language for
+  facilitating communication with the deaf community.
+\newblock {\em Digital Signal Processing}, 21(4):535--542.
+
+\bibitem[Shanableh et~al., 2007]{shanableh_spatiotemporal_2007}
+Shanableh, T., Assaleh, K., and {Al-Rousan}, M. (2007).
+\newblock Spatio-{{Temporal Feature}}-{{Extraction Techniques}} for {{Isolated
+  Gesture Recognition}} in {{Arabic Sign Language}}.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics},
+  37(3):641--650.
+
+\bibitem[Shenoy et~al., 2018]{shenoy_realtime_2018}
+Shenoy, K., Dastane, T., Rao, V., and Vyavaharkar, D. (2018).
+\newblock Real-time {{Indian Sign Language}} ({{ISL}}) {{Recognition}}.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Computing}}, {{Communication}}
+  and {{Networking Technologies}} ({{ICCCNT}})}, pages 1--9.
+
+\bibitem[Song et~al., 2019]{song_parallel_2019}
+Song, P., Guo, D., Xin, H., and Wang, M. (2019).
+\newblock Parallel {{Temporal Encoder For Sign Language Translation}}.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Image Processing}}
+  ({{ICIP}})}, pages 1915--1919.
+
+\bibitem[Starner and Pentland, 1995]{starner_realtime_1995}
+Starner, T. and Pentland, A. (1995).
+\newblock Real-time american sign language recognition from video using hidden
+  markov models.
+\newblock In {\em International {{Symposium}} on {{Computer Vision}}}, pages
+  265--270, {Coral Gables, Florida, USA}.
+
+\bibitem[Starner et~al., 1998]{starner_realtime_1998}
+Starner, T., Weaver, J., and Pentland, A. (1998).
+\newblock Real-time american sign language recognition using desk and wearable
+  computer based video.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  20(12):1371--1375.
+
+\bibitem[Stein et~al., 2007]{stein_hand_2007}
+Stein, D., Dreuw, P., Ney, H., Morrissey, S., and Way, A. (2007).
+\newblock Hand in {{Hand}}: {{Automatic Sign Language}} to {{Speech
+  Translation}}.
+\newblock In {\em Proc. {{Conf}}. on {{Theoretical}} and {{Methodological
+  Issues}} in {{Machine Translation}}}, pages 214--220, {Sk"ovde, Sweden}.
+
+\bibitem[Su et~al., 2001]{su_fuzzy_2001}
+Su, M.-C., Zhao, Y.-X., and Chen, H.-F. (2001).
+\newblock A fuzzy rule-based approach to recognizing 3-{{D}} arm movements.
+\newblock {\em IEEE Transactions on Neural Systems and Rehabilitation
+  Engineering}, 9(2):191--201.
+
+\bibitem[Sun et~al., 2013a]{sun_discriminative_2013}
+Sun, C., Zhang, T., Bao, B., Xu, C., and Mei, T. (2013a).
+\newblock Discriminative {{Exemplar Coding}} for {{Sign Language Recognition
+  With Kinect}}.
+\newblock {\em IEEE Transactions on Cybernetics}, 43(5):1418--1428.
+
+\bibitem[Sun et~al., 2013b]{sun_latent_2013}
+Sun, C., Zhang, T., Bao, B.-K., and Xu, C. (2013b).
+\newblock Latent support vector machine for sign language recognition with
+  {{Kinect}}.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Image Processing}}
+  ({{ICIP}})}, pages 4190--4194.
+
+\bibitem[Tamer and Sara{\c c}lar, 2020]{tamer_keyword_2020}
+Tamer, N.~C. and Sara{\c c}lar, M. (2020).
+\newblock Keyword {{Search}} for {{Sign Language}}.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Acoustics}}, {{Speech}}
+  and {{Signal Processing}} ({{ICASSP}})}, pages 8184--8188.
+
+\bibitem[Tamura and Kawasaki, 1988]{tamura_recognition_1988}
+Tamura, S. and Kawasaki, S. (1988).
+\newblock Recognition of sign language motion images.
+\newblock {\em Pattern Recognition}, 21(4):343--353.
+
+\bibitem[Tanibata et~al., 2002]{tanibata_extraction_2002}
+Tanibata, N., Shimada, N., and Shirai, Y. (2002).
+\newblock Extraction of {{Hand Features}} for {{Recognition}} of {{Sign
+  Language Words}}.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Vision Interface}}}, pages
+  391--398, {Calgary, Canada}.
+
+\bibitem[Thang et~al., 2017]{thang_comparison_2017}
+Thang, P.~Q., Dung, N.~D., and Thuy, N.~T. (2017).
+\newblock A {{Comparison}} of {{SimpSVM}} and {{RVM}} for {{Sign Language
+  Recognition}}.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Machine Learning}} and {{Soft
+  Computing}}}, {{ICMLSC}} '17, pages 98--104, {Ho Chi Minh City, Vietnam}.
+
+\bibitem[Thangali et~al., 2011]{thangali_exploiting_2011}
+Thangali, A., Nash, J.~P., Sclaroff, S., and Neidle, C. (2011).
+\newblock Exploiting phonological constraints for handshape inference in
+  {{ASL}} video.
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition}} ({{CVPR}})}, pages 521--528, {Colorado Springs, Colorado, USA}.
+
+\bibitem[Theodorakis et~al., 2009]{theodorakis_producthmms_2009}
+Theodorakis, S., Katsamanis, A., and Maragos, P. (2009).
+\newblock Product-{{HMMs}} for automatic sign language recognition.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Acoustics}}, {{Speech}}
+  and {{Signal Processing}} ({{ICASSP}})}, pages 1601--1604, {Taipei, Taiwan}.
+
+\bibitem[Theodorakis et~al., 2010]{theodorakis_modellevel_2010}
+Theodorakis, S., Pitsikalis, V., and Maragos, P. (2010).
+\newblock Model-level data-driven sub-units for signs in videos of continuous
+  sign language.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Acoustics}}, {{Speech}}
+  and {{Signal Processing}} ({{ICASSP}})}, pages 2262--2265, {Dallas, Texas,
+  USA}.
+
+\bibitem[Theodorakis et~al., 2014]{theodorakis_dynamicstatic_2014}
+Theodorakis, S., Pitsikalis, V., and Maragos, P. (2014).
+\newblock Dynamic-static unsupervised sequentiality, statistical subunits and
+  lexicon for sign language recognition.
+\newblock {\em Image and Vision Computing}, 32(8):533--549.
+
+\bibitem[Tolba et~al., 2010]{tolba_image_2010}
+Tolba, M.~F., Abdellwahab, M.~S., {Aboul-Ela}, M., and Samir, A. (2010).
+\newblock Image signature improving by {{PCNN}} for {{Arabic}} sign language
+  recognition.
+\newblock {\em Can. J. Artif. Intell. Mach. Learn. Pattern Recognit},
+  1(1):1--6.
+
+\bibitem[Tornay et~al., 2019]{tornay_hmmbased_2019}
+Tornay, S., Razavi, M., Camgoz, N.~C., Bowden, R., and {Magimai. -Doss}, M.
+  (2019).
+\newblock {{HMM}}-based {{Approaches}} to {{Model Multichannel Information}} in
+  {{Sign Language}} inspired from {{Articulatory Features}}-based {{Speech
+  Processing}}.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Acoustics}}, {{Speech}}
+  and {{Signal Processing}} ({{ICASSP}})}, pages 2817--2821, {Brighton, UK}.
+
+\bibitem[Tran et~al., 2018]{tran_closer_2018}
+Tran, D., Wang, H., Torresani, L., Ray, J., LeCun, Y., and Paluri, M. (2018).
+\newblock A {{Closer Look}} at {{Spatiotemporal Convolutions}} for {{Action
+  Recognition}}.
+\newblock In {\em 2018 {{IEEE}}/{{CVF Conference}} on {{Computer Vision}} and
+  {{Pattern Recognition}}}, pages 6450--6459, {Salt Lake City, UT}. {IEEE}.
+
+\bibitem[Trmal et~al., 2008]{trmal_feature_2008}
+Trmal, J., Hr{\'u}z, M., Zelinka, J., Campr, P., and M{\"u}ller, L. (2008).
+\newblock Feature space transforms for czech sign-language recognition.
+\newblock In {\em Proc. of the {{Ann}}. {{Conf}}. of the {{Int}}. {{Speech
+  Commun}}. {{Assoc}}. ({{Interspeech}})}, pages 2036--2039, {Brisbane,
+  Australia}.
+
+\bibitem[Tubaiz et~al., 2015]{tubaiz_glovebased_2015}
+Tubaiz, N., Shanableh, T., and Assaleh, K. (2015).
+\newblock Glove-based continuous {{Arabic}} sign language recognition in
+  user-dependent mode.
+\newblock {\em IEEE Transactions on Human-Machine Systems}, 45(4):526--533.
+
+\bibitem[Uebersax et~al., 2011]{uebersax_realtime_2011}
+Uebersax, D., Gall, J., den Bergh, M.~V., and Gool, L.~V. (2011).
+\newblock Real-time sign language letter and word recognition from depth data.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Computer Vision
+  Workshops}} ({{ICCVW}})}, pages 383--390.
+
+\bibitem[Vaezi~Joze and Koller, 2019]{vaezi_joze_msasl_2019}
+Vaezi~Joze, H. and Koller, O. (2019).
+\newblock {{MS}}-{{ASL}}: {{A}} large-scale data set and benchmark for
+  understanding american sign language.
+\newblock In {\em Proc. {{British Machine Vision Conference}} ({{BMVC}})},
+  {Cardiff, UK}.
+
+\bibitem[Vamplew and Adams, 1996]{vamplew_recognition_1996}
+Vamplew, P. and Adams, A. (1996).
+\newblock Recognition of sign language gestures using neural networks.
+\newblock In {\em European {{Conf}}. on {{Disabilities}}, {{Virtual Reality}}
+  and {{Associated Technologies}}}, pages 27--33, {Maidenhead, UK}.
+
+\bibitem[Vasudevan et~al., 2020]{vasudevan_introduction_2020}
+Vasudevan, A., Negri, P., {Linares-Barranco}, B., and {Serrano-Gotarredona}, T.
+  (2020).
+\newblock Introduction and {{Analysis}} of an {{Event}}-{{Based Sign Language
+  Dataset}}.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Automatic Face}} and {{Gesture
+  Recognition}} ({{FG}})}, pages 441--448, {Buenos Aires, Argentina}.
+
+\bibitem[Vogler and Metaxas, 1997]{vogler_adapting_1997}
+Vogler, C. and Metaxas, D. (1997).
+\newblock Adapting hidden {{Markov}} models for {{ASL}} recognition by using
+  three-dimensional computer vision methods.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Systems}}, {{Man}}, and
+  {{Cybernetics}} ({{SMC}})}, pages 156--161, {Orlando, USA}.
+
+\bibitem[Vogler and Metaxas, 1999a]{vogler_parallel_1999}
+Vogler, C. and Metaxas, D. (1999a).
+\newblock Parallel hidden markov models for american sign language recognition.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Computer Vision}}
+  ({{ICCV}})}, volume~1, pages 116--122, {Corfu, Greece}.
+
+\bibitem[Vogler and Metaxas, 1999b]{vogler_scalability_1999}
+Vogler, C. and Metaxas, D. (1999b).
+\newblock Toward {{Scalability}} in {{ASL Recognition}}: {{Breaking Down
+  Signs}} into {{Phonemes}}.
+\newblock In {\em Gesture-{{Based Communication}} in {{Human}}-{{Computer
+  Interaction}}}, Lecture {{Notes}} in {{Computer Science}}, pages 211--224.
+  {Springer, Berlin, Heidelberg}.
+
+\bibitem[Vogler and Metaxas, 2001]{vogler_framework_2001}
+Vogler, C. and Metaxas, D. (2001).
+\newblock A framework for recognizing the simultaneous aspects of american sign
+  language.
+\newblock {\em Computer Vision and Image Understanding (CVIU)}, 81(3):358--384.
+
+\bibitem[Vogler and Metaxas, 2004]{vogler_handshapes_2004}
+Vogler, C. and Metaxas, D. (2004).
+\newblock Handshapes and {{Movements}}: {{Multiple}}-{{Channel American Sign
+  Language Recognition}}.
+\newblock In Camurri, A. and Volpe, G., editors, {\em Gesture-{{Based
+  Communication}} in {{Human}}-{{Computer Interaction}}}, volume 2915 of {\em
+  Lecture {{Notes}} in {{Computer Science}}}, pages 247--258. {Springer,
+  Berlin, Heidelberg}.
+
+\bibitem[{von Agris} et~al., 2008a]{von_agris_significance_2008}
+{von Agris}, U., Knorr, M., and Kraiss, K.-F. (2008a).
+\newblock The significance of facial features for automatic sign language
+  recognition.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Automatic Face}} and {{Gesture
+  Recognition}} ({{FG}})}, pages 1--6, {Amsterdam, The Netherlands}.
+
+\bibitem[{von Agris} and Kraiss, 2007]{von_agris_video_2007}
+{von Agris}, U. and Kraiss, K.-F. (2007).
+\newblock Towards a {{Video Corpus}} for {{Signer}}-{{Independent Continuous
+  Sign Language Recognition}}.
+\newblock In Dias, S. and {Jota}, editors, {\em {{GW}} 2007 {{The}} 7th
+  {{International Workshop}} on {{Gesture}} in {{Human}}-{{Computer
+  Interaction}} and {{Simulation}}}, pages 10--11, {Lisbon, Portugal}.
+
+\bibitem[von Agris et~al., 2006]{agris_rapid_2006}
+von Agris, U., Schneider, D., Zieren, J., and Kraiss, K. (2006).
+\newblock Rapid {{Signer Adaptation}} for {{Isolated Sign Language
+  Recognition}}.
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition Workshops}} ({{CVPRW}})}, pages 159--159.
+
+\bibitem[{von Agris} et~al., 2008b]{von_agris_recent_2008}
+{von Agris}, U., Zieren, J., Canzler, U., Bauer, B., and Kraiss, K.~F. (2008b).
+\newblock Recent developments in visual sign language recognition.
+\newblock {\em Universal Access in the Information Society}, 6(4):323--362.
+
+\bibitem[Waldron and Kim, 1995]{waldron_isolated_1995}
+Waldron, M.~B. and Kim, S. (1995).
+\newblock Isolated {{ASL}} sign recognition system for deaf persons.
+\newblock {\em IEEE Transactions on Rehabilitation Engineering}, 3(3):261--271.
+
+\bibitem[Wang et~al., 2006a]{wang_expanding_2006}
+Wang, C., Chen, X., and Gao, W. (2006a).
+\newblock Expanding training set for chinese sign language recognition.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Automatic Face}} and {{Gesture
+  Recognition}} ({{FG}})}, pages 323--328, {Southampton, UK}.
+
+\bibitem[Wang et~al., 2001]{wang_realtime_2001}
+Wang, C., Gao, W., and Ma, J. (2001).
+\newblock A {{Real}}-{{Time Large Vocabulary Recognition System}} for {{Chinese
+  Sign Language}}.
+\newblock In {\em Gesture and {{Sign Language}} in {{Human}}-{{Computer
+  Interaction}}}, Lecture {{Notes}} in {{Computer Science}}, pages 86--95.
+
+\bibitem[Wang et~al., 2002]{wang_approach_2002}
+Wang, C., Gao, W., and Shan, S. (2002).
+\newblock An approach based on phonemes to large vocabulary {{Chinese}} sign
+  language recognition.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Automatic Face}} and {{Gesture
+  Recognition}} ({{FG}})}, pages 411--416.
+
+\bibitem[Wang et~al., 2019]{wang_bidirectional_2019}
+Wang, F., Sun, S., and Liu, Y. (2019).
+\newblock A {{Bi}}-directional {{Interactive System}} of {{Sign Language}} and
+  {{Visual Speech Based}} on {{Portable Devices}}.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Robotics}} and
+  {{Biomimetics}} ({{ROBIO}})}, pages 1071--1076.
+
+\bibitem[Wang et~al., 2016]{wang_sparse_2016}
+Wang, H., Chai, X., and Chen, X. (2016).
+\newblock Sparse {{Observation}} ({{SO}}) {{Alignment}} for {{Sign Language
+  Recognition}}.
+\newblock {\em Neurocomputing}, 175(Part A):674--685.
+
+\bibitem[Wang et~al., 2015]{wang_fast_2015}
+Wang, H., Chai, X., Zhou, Y., and Chen, X. (2015).
+\newblock Fast sign language recognition benefited from low rank approximation.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Automatic Face}} and {{Gesture
+  Recognition}} ({{FG}})}, volume~1, pages 1--6, {Ljubljana, Slovenia}. {IEEE}.
+
+\bibitem[Wang et~al., 2006b]{wang_american_2006}
+Wang, H., Leu, M.~C., and Oz, C. (2006b).
+\newblock American {{Sign Language Recognition Using Multi}}-dimensional
+  {{Hidden Markov Models}}.
+\newblock {\em Journal of Information Science and Engineering},
+  22(5):1109--1123.
+
+\bibitem[Wang et~al., 2010]{wang_system_2010}
+Wang, H., Stefan, A., Moradi, S., Athitsos, V., Neidle, C., and Kamangar, F.
+  (2010).
+\newblock A {{System}} for {{Large Vocabulary Sign Search}}.
+\newblock In {\em European {{Conference}} on {{Computer Vision Workshops}}
+  ({{ECCVW}})}, pages 342--353, {Crete, Greece}.
+
+\bibitem[Wang and Gao, 2000]{wang_fast_2000}
+Wang, J. and Gao, W. (2000).
+\newblock A {{Fast Sign Word Recognition Method}} for {{Chinese Sign
+  Language}}.
+\newblock In Tan, T., Shi, Y., and Gao, W., editors, {\em Advances in
+  {{Multimodal Interfaces}} \textemdash{} {{ICMI}} 2000}, Lecture {{Notes}} in
+  {{Computer Science}}, pages 599--606, {Beijing, China}.
+
+\bibitem[Wang et~al., 2007]{wang_viewpoint_2007}
+Wang, Q., Chen, X., Zhang, L.-G., Wang, C., and Gao, W. (2007).
+\newblock Viewpoint invariant sign language recognition.
+\newblock {\em Computer Vision and Image Understanding (CVIU)},
+  108(1\textendash 2):87--97.
+
+\bibitem[Wang et~al., 2018]{wang_connectionist_2018}
+Wang, S., Guo, D., Zhou, W.-g., Zha, Z.-J., and Wang, M. (2018).
+\newblock Connectionist {{Temporal Fusion}} for {{Sign Language Translation}}.
+\newblock In {\em Proc. {{ACM Int}}. {{Conf}}. on {{Multimedia}}}, {{MM}} '18,
+  pages 1483--1491, {Seoul, Republic of Korea}.
+
+\bibitem[Wei et~al., 2019]{wei_deep_2019}
+Wei, C., Zhou, W., Pu, J., and Li, H. (2019).
+\newblock Deep {{Grammatical Multi}}-classifier for {{Continuous Sign Language
+  Recognition}}.
+\newblock In {\em 2019 {{IEEE Fifth International Conference}} on {{Multimedia
+  Big Data}} ({{BigMM}})}, pages 435--442.
+
+\bibitem[Wei et~al., 2016]{wei_componentbased_2016}
+Wei, S., Chen, X., Yang, X., Cao, S., and Zhang, X. (2016).
+\newblock A {{Component}}-{{Based Vocabulary}}-{{Extensible Sign Language
+  Gesture Recognition Framework}}.
+\newblock {\em Sensors}, 16(4):556.
+
+\bibitem[Windridge and Bowden, 2004]{windridge_induced_2004}
+Windridge, D. and Bowden, R. (2004).
+\newblock Induced {{Decision Fusion}} in {{Automated Sign Language
+  Interpretation}}: {{Using ICA}} to {{Isolate}} the {{Underlying Components}}
+  of {{Sign}}.
+\newblock In Kanade, T., Kittler, J., Kleinberg, J.~M., Mattern, F., Mitchell,
+  J.~C., Naor, M., Nierstrasz, O., Pandu~Rangan, C., Steffen, B., Sudan, M.,
+  Terzopoulos, D., Tygar, D., Vardi, M.~Y., Weikum, G., Roli, F., Kittler, J.,
+  and Windeatt, T., editors, {\em Multiple {{Classifier Systems}}}, volume
+  3077, pages 303--313. {Springer Berlin Heidelberg}, {Berlin, Heidelberg}.
+
+\bibitem[Wu and Gao, 2001]{wu_recognition_2001}
+Wu, J. and Gao, W. (2001).
+\newblock The {{Recognition}} of {{Finger}}-{{Spelling}} for {{Chinese Sign
+  Language}}.
+\newblock In Wachsmuth, I. and Sowa, T., editors, {\em Gesture and {{Sign
+  Language}} in {{Human}}-{{Computer Interaction}}}, Lecture {{Notes}} in
+  {{Computer Science}}, pages 96--100, {London, UK}.
+
+\bibitem[Xie et~al., 2018]{xie_rgbd_2018}
+Xie, B., He, X., and Li, Y. (2018).
+\newblock {{RGB}}-{{D}} static gesture recognition based on convolutional
+  neural network.
+\newblock {\em The Journal of Engineering}, 2018(16):1515--1520.
+
+\bibitem[Yang and Lee, 2011]{yang_combination_2011}
+Yang, H.-D. and Lee, S.-W. (2011).
+\newblock Combination of manual and non-manual features for sign language
+  recognition based on conditional random field and active appearance model.
+\newblock In {\em Int. {{Conf}}. on {{Machine Learning}} and {{Cybernetics}}
+  ({{ICMLC}})}, volume~4, pages 1726--1731.
+
+\bibitem[Yang and Lee, 2013]{yang_robust_2013}
+Yang, H.-D. and Lee, S.-W. (2013).
+\newblock Robust sign language recognition by combining manual and non-manual
+  features based on conditional random field and support vector machine.
+\newblock {\em Pattern Recognition Letters}, 34(16):2051--2056.
+
+\bibitem[Yang et~al., 2009]{yang_sign_2009}
+Yang, H.-D., Sclaroff, S., and Lee, S.-W. (2009).
+\newblock Sign {{Language Spotting}} with a {{Threshold Model Based}} on
+  {{Conditional Random Fields}}.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  31(7):1264--1277.
+
+\bibitem[Yang et~al., 2002]{yang_extraction_2002}
+Yang, M.-H., Ahuja, N., and Tabb, M. (2002).
+\newblock Extraction of {{2D}} motion trajectories and its application to hand
+  gesture recognition.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  24(8):1061--1074.
+
+\bibitem[Yang et~al., 2007]{yang_enhanced_2007}
+Yang, R., Sarkar, S., and Loeding, B. (2007).
+\newblock Enhanced {{Level Building Algorithm}} for the {{Movement Epenthesis
+  Problem}} in {{Sign Language Recognition}}.
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition}} ({{CVPR}})}, pages 1--8. {IEEE}.
+
+\bibitem[Yang et~al., 2010]{yang_handling_2010}
+Yang, R., Sarkar, S., and Loeding, B. (2010).
+\newblock Handling {{Movement Epenthesis}} and {{Hand Segmentation
+  Ambiguities}} in {{Continuous Sign Language Recognition Using Nested Dynamic
+  Programming}}.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  32(3):462--477.
+
+\bibitem[Yang et~al., 2016]{yang_continuous_2016}
+Yang, W., Tao, J., and Ye, Z. (2016).
+\newblock Continuous sign language recognition using level building based on
+  fast hidden {{Markov}} model.
+\newblock {\em Pattern Recognition Letters}, 78:28--35.
+
+\bibitem[Yang et~al., 2019]{yang_sfnet_2019}
+Yang, Z., Shi, Z., Shen, X., and Tai, Y.-W. (2019).
+\newblock {{SF}}-{{Net}}: {{Structured Feature Network}} for {{Continuous Sign
+  Language Recognition}}.
+\newblock {\em arXiv:1908.01341 [cs]}.
+
+\bibitem[Ye et~al., 2018]{ye_recognizing_2018}
+Ye, Y., Tian, Y., Huenerfauth, M., Liu, J., Ruiz, N., Chong, E., Rehg, J.~M.,
+  Palsson, S., Agustsson, E., and Timofte, R. (2018).
+\newblock Recognizing {{American Sign Language Gestures From Within Continuous
+  Videos}}.
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition Workshops}} ({{CVPRW}})}, pages 2064--2073.
+
+\bibitem[Yin et~al., 2016]{yin_iterative_2016}
+Yin, F., Chai, X., and Chen, X. (2016).
+\newblock Iterative {{Reference Driven Metric Learning}} for {{Signer
+  Independent Isolated Sign Language Recognition}}.
+\newblock In {\em European {{Conference}} on {{Computer Vision}} ({{ECCV}})},
+  pages 434--450, {Amsterdam, The Netherlands}.
+
+\bibitem[Yin et~al., 2015a]{yin_semantics_2015}
+Yin, F., Chai, X., Zhou, Y., and Chen, X. (2015a).
+\newblock Semantics {{Constrained Dictionary Learning}} for
+  {{Signer}}-{{Independent Sign Language Recognition}}.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Image Processing}}
+  ({{ICIP}})}, pages 3310--3314, {Quebec, Canada}.
+
+\bibitem[Yin et~al., 2015b]{yin_weakly_2015}
+Yin, F., Chai, X., Zhou, Y., and Chen, X. (2015b).
+\newblock Weakly {{Supervised Metric Learning}} towards {{Signer Adaptation}}
+  for {{Sign Language Recognition}}.
+\newblock In {\em Proc. {{British Machine Vision Conference}} ({{BMVC}})},
+  pages 35.1--35.12, {Swansea, UK}.
+
+\bibitem[Yin et~al., 2009]{yin_learning_2009}
+Yin, P., Starner, T., Hamilton, H., Essa, I., and Rehg, J. (2009).
+\newblock Learning the basic units in {{American Sign Language}} using
+  discriminative segmental feature selection.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Acoustics}}, {{Speech}}
+  and {{Signal Processing}} ({{ICASSP}})}, pages 4757--4760, {Taipei, Taiwan}.
+
+\bibitem[Yuan et~al., 2002]{yuan_recognition_2002}
+Yuan, Q., Geo, W., Yao, H., and Wang, C. (2002).
+\newblock Recognition of strong and weak connection models in continuous sign
+  language.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Pattern Recognition}}
+  ({{ICPR}})}, volume~1, pages 75--78 vol.1, {Quebec, Canada}.
+
+\bibitem[Yugopuspito et~al., 2018]{yugopuspito_mobile_2018}
+Yugopuspito, P., Murwantara, I.~M., and Sean, J. (2018).
+\newblock Mobile {{Sign Language Recognition}} for {{Bahasa Indonesia Using
+  Convolutional Neural Network}}.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Advances}} in {{Mobile
+  Computing}} and {{Multimedia}}}, {{MoMM2018}}, pages 84--91, {New York, NY,
+  USA}.
+
+\bibitem[Zadghorban and Nahvi, 2018]{zadghorban_algorithm_2018}
+Zadghorban, M. and Nahvi, M. (2018).
+\newblock An {{Algorithm}} on {{Sign Words Extraction}} and {{Recognition}} of
+  {{Continuous Persian Sign Language Based}} on {{Motion}} and {{Shape
+  Features}} of {{Hands}}.
+\newblock {\em Pattern Anal. Appl.}, 21(2):323--335.
+
+\bibitem[Zafrulla et~al., 2010]{zafrulla_novel_2010}
+Zafrulla, Z., Brashear, H., Hamilton, H., and Starner, T. (2010).
+\newblock A novel approach to {{American Sign Language}} ({{ASL}}) phrase
+  verification using reversed signing.
+\newblock In {\em Proc. {{IEEE Conf}}. on {{Computer Vision}} and {{Pattern
+  Recognition Workshops}} ({{CVPRW}})}, pages 48--55.
+
+\bibitem[Zafrulla et~al., 2011]{zafrulla_american_2011}
+Zafrulla, Z., Brashear, H., Starner, T., Hamilton, H., and Presti, P. (2011).
+\newblock American {{Sign Language Recognition}} with the {{Kinect}}.
+\newblock In {\em Proc. {{Int}}. {{Conf}}. on {{Multimodal Interfaces}}
+  ({{ICMI}})}, pages 279--286, {Alicante, Spain}.
+
+\bibitem[Zahedi, 2007]{zahedi_robust_2007}
+Zahedi, M. (2007).
+\newblock {\em Robust {{Appearance}}-Based {{Sign Language Recognition}}}.
+\newblock PhD thesis, RWTH Aachen University, {Computer Science Department,
+  RWTH Aachen University, Aachen, Germany}.
+
+\bibitem[Zahedi et~al., 2008]{zahedi_using_2008}
+Zahedi, M., Dreuw, P., Deselaers, T., and Ney, H. (2008).
+\newblock Using {{Different Aspects}} of the {{Signings}} for
+  {{Appearance}}-based {{Sign Language Recognition}}.
+\newblock {\em International Journal of Computational Intelligence},
+  4(4):300--307.
+
+\bibitem[Zahedi et~al., 2006]{zahedi_using_2006}
+Zahedi, M., Dreuw, P., Rybach, D., Deselaers, T., and Ney, H. (2006).
+\newblock Using {{Geometric Features}} to {{Improve Continuous
+  Appearance}}-based {{Sign Language Recognition}}.
+\newblock In {\em Proc. {{British Machine Vision Conference}} ({{BMVC}})},
+  volume~3, pages 1019--1028, {Edinburgh, UK}.
+
+\bibitem[Zahedi et~al., 2005a]{zahedi_appearancebased_2005}
+Zahedi, M., Keysers, D., and Ney, H. (2005a).
+\newblock Appearance-{{Based Recognition}} of {{Words}} in {{American Sign
+  Language}}.
+\newblock In {\em Proc. {{Iberian Conf}}. on {{Pattern Recognition}} and
+  {{Image Analysis}} ({{IbPRIA}})}, pages 513--520, {Estoril, Portugal}.
+
+\bibitem[Zahedi et~al., 2005b]{zahedi_pronunciation_2005}
+Zahedi, M., Keysers, D., and Ney, H. (2005b).
+\newblock Pronunciation {{Clustering}} and {{Modeling}} of {{Variability}} for
+  {{Appearance}}-{{Based Sign Language Recognition}}.
+\newblock In {\em International {{Workshop}} on {{Gesture}} in
+  {{Human}}-{{Computer Interaction}} and {{Simulation}}}, volume 3881, pages
+  68--79, {Ile-de-Berder, France}.
+
+\bibitem[Zaki and Shaheen, 2011]{zaki_sign_2011}
+Zaki, M.~M. and Shaheen, S.~I. (2011).
+\newblock Sign language recognition using a combination of new vision based
+  features.
+\newblock {\em Pattern Recognition Letters}, 32(4):572--577.
+
+\bibitem[Zhang et~al., 2016a]{zhang_multimodality_2016}
+Zhang, C., Tian, Y., and Huenerfauth, M. (2016a).
+\newblock Multi-modality {{American Sign Language}} recognition.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Image Processing}}
+  ({{ICIP}})}, pages 2881--2885.
+
+\bibitem[Zhang et~al., 2014]{zhang_thresholdbased_2014}
+Zhang, J., Zhou, W., and Li, H. (2014).
+\newblock A {{Threshold}}-based {{HMM}}-{{DTW Approach}} for {{Continuous Sign
+  Language Recognition}}.
+\newblock In {\em Proc. of {{Int}}. {{Conf}}. on {{Internet Multimedia
+  Computing}} and {{Service}}}, pages 237:237--237:240, {Xiamen, China}.
+
+\bibitem[Zhang et~al., 2015]{zhang_new_2015}
+Zhang, J., Zhou, W., and Li, H. (2015).
+\newblock A new system for {{Chinese}} sign language recognition.
+\newblock In {\em Proc. {{IEEE China Summit}} and {{Int}}. {{Conf}}. on
+  {{Signal}} and {{Information Processing}} ({{ChinaSIP}})}, pages 534--538.
+
+\bibitem[Zhang et~al., 2016b]{zhang_chinese_2016}
+Zhang, J., Zhou, W., Xie, C., Pu, J., and Li, H. (2016b).
+\newblock Chinese sign language recognition with adaptive {{HMM}}.
+\newblock In {\em {{IEEE Int}}. {{Conf}}. on {{Multimedia}} and {{Expo}}
+  ({{ICME}})}, pages 1--6.
+
+\bibitem[Zhang et~al., 2019]{zhang_continuous_2019}
+Zhang, Z., Pu, J., Zhuang, L., Zhou, W., and Li, H. (2019).
+\newblock Continuous {{Sign Language Recognition}} via {{Reinforcement
+  Learning}}.
+\newblock In {\em Proc. {{IEEE Int}}. {{Conf}}. on {{Image Processing}}
+  ({{ICIP}})}, pages 285--289.
+
+\bibitem[Zheng and Liang, 2016]{zheng_sign_2016}
+Zheng, L. and Liang, B. (2016).
+\newblock Sign language recognition using depth images.
+\newblock In {\em 14th {{Int}}. {{Conf}}. on {{Control}}, {{Automation}},
+  {{Robotics}} and {{Vision}} ({{ICARCV}})}, pages 1--6, {Phuket, Thailand}.
+
+\bibitem[Zhou et~al., 2019]{zhou_dynamic_2019}
+Zhou, H., Zhou, W., and Li, H. (2019).
+\newblock Dynamic {{Pseudo Label Decoding}} for {{Continuous Sign Language
+  Recognition}}.
+\newblock In {\em 2019 {{IEEE International Conference}} on {{Multimedia}} and
+  {{Expo}} ({{ICME}})}, pages 1282--1287.
+
+\bibitem[Zhou et~al., 2020a]{zhou_spatialtemporal_2020}
+Zhou, H., Zhou, W., Zhou, Y., and Li, H. (2020a).
+\newblock Spatial-{{Temporal Multi}}-{{Cue Network}} for {{Continuous Sign
+  Language Recognition}}.
+\newblock {\em arXiv:2002.03187 [cs]}.
+
+\bibitem[Zhou et~al., 2020b]{zhou_selfattentionbased_2020}
+Zhou, M., Ng, M., Cai, Z., and Cheung, K.~C. (2020b).
+\newblock Self-{{Attention}}-based {{Fully}}-{{Inception Networks}} for
+  {{Continuous Sign Language Recognition}}.
+\newblock {\em Santiago de Compostela}, page~8.
+
+\bibitem[Zhou et~al., 2010]{zhou_adaptive_2010}
+Zhou, Y., Chen, X., Zhao, D., Yao, H., and Gao, W. (2010).
+\newblock Adaptive {{Sign Language Recognition With Exemplar Extraction}} and
+  {{MAP}}/{{IVFS}}.
+\newblock {\em IEEE Signal Processing Letters}, 17(3):297--300.
+
+\bibitem[Zhou et~al., 2015]{zhou_unsupervised_2015}
+Zhou, Y., Yang, X., Zhang, Y., Xu, X., Wang, Y., Chai, X., and Lin, W. (2015).
+\newblock Unsupervised adaptive sign language recognition based on hypothesis
+  comparison guided cross validation and linguistic prior filtering.
+\newblock {\em Neurocomputing}, 149:1604--1612.
+
+\end{thebibliography}

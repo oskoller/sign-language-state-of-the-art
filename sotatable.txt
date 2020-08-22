@@ -1,0 +1,407 @@
+\cite{grimes_digital_1983} & 1983 & 26 &  & x &  &  &  &  & x &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{tamura_recognition_1988} & 1988 & 10 &  & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{jsl}\\
+\cite{murakami_gesture_1991} & 1991 & 10 & 1 & x &  &  &  &  & x &  & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{jsl}\\
+\cite{charayaphan_image_1992} & 1992 & 31 & 1 & x &  & x &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{fels_glovetalk_1993} & 1993 & 203 &  & x &  &  &  &  & x &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{kadous_grasp_1995} & 1995 & 95 & 5 & x &  &  &  &  & x &  & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{auslan}\\
+\cite{liang_realtime_1995} & 1995 & 26 &  & x &  &  &  &  & x & x &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{waldron_isolated_1995} & 1995 & 14 &  & x &  &  &  &  & x & x & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{starner_realtime_1995} & 1995 & 40 &  &  & x & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{ouhyoung_sign_1996} & 1996 & 71 &  &  & x &  &  &  & x & x & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{twsl}\\
+\cite{kim_dynamic_1996} & 1996 & 25 &  & x &  &  &  &  & x &  & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{ksl}\\
+\cite{kadous_machine_1996} & 1996 & 95 & 5 & x &  &  &  &  & x &  & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{auslan}\\
+\cite{vamplew_recognition_1996} & 1996 & 52 & 7 & x &  &  &  &  & x &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{auslan}\\
+\cite{assan_videobased_1997} & 1997 & 26 & 1 &  & x &  &  & x &  &  & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{ngt}\\
+\cite{assan_videobased_1997} & 1997 & 262 & 2 & x &  &  &  & x &  &  & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{ngt}\\
+\cite{matsuo_recognition_1997} & 1997 & 38 & 1 & x &  & x &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{jsl}\\
+\cite{lee_realtime_1997} & 1997 & 131 &  &  & x &  &  &  & x & x &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{ksl}\\
+\cite{vogler_adapting_1997} & 1997 & 53 &  &  & x & x &  &  &  & x & x & x &  & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{kobayashi_partlyhidden_1997} & 1997 & 6 & 20 & x &  & x &  &  &  &  & x &  & x &  & x &  &  &  &  &  &  &  &  &  &  & \acrshort{jsl}\\
+\cite{huang_sign_1998} & 1998 & 15 &  & x &  & x &  &  &  &  & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{twsl}\\
+\cite{liang_realtime_1998} & 1998 & 250 &  &  & x &  &  &  & x &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{twsl}\\
+\cite{starner_realtime_1998} & 1998 & 40 &  &  & x & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{vogler_parallel_1999} & 1999 & 22 &  &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{vogler_scalability_1999} & 1999 & 22 &  &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{bauer_automatic_1999} & 1999 & 100 & 1 &  & x &  &  & x &  &  & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{dgs}\\
+\cite{imagawa_recognition_2000} & 2000 & 33 & 6 & x &  & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{jsl}\\
+\cite{ma_parallel_2000} & 2000 & 5177 &  & x &  & x &  &  & x &  & x &  &  & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{wang_fast_2000} & 2000 & 274 & 1 & x &  &  &  &  & x &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{holden_visual_2000} & 2000 & 22 & 1 & x &  &  &  & x &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{auslan}\\
+\cite{cui_appearancebased_2000} & 2000 & 28 &  & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{sagawa_method_2000} & 2000 & 17 &  &  & x &  &  &  & x &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{jsl}\\
+\cite{su_fuzzy_2001} & 2001 & 90 & 2 & x &  &  &  &  & x & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{twsl}\\
+\cite{wang_realtime_2001} & 2001 & 5100 & 1 & x &  &  &  &  & x & x & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{wu_recognition_2001} & 2001 & 30 &  & x &  &  &  &  & x & x & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{fang_signerindependent_2001} & 2001 & 208 & 7 &  & x &  &  &  & x & x & x & x &  & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{fang_signerindependent_2001a} & 2001 & 208 & 7 & x &  &  &  &  & x & x & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{vogler_framework_2001} & 2001 & 22 &  &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{bauer_automatic_2002} & 2002 & 12 &  &  & x &  &  &  &  & x & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  \\
+\cite{tanibata_extraction_2002} & 2002 & 65 & 1 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{jsl}\\
+\cite{deng_twostep_2002} & 2002 & 192 & 2 & x &  &  &  & x &  &  & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{bauer_videobased_2002} & 2002 & 100 & 1 & x &  &  &  & x &  &  & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{dgs}\\
+\cite{bauer_videobased_2002} & 2002 & 50 & 1 & x &  &  &  & x &  &  & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{dgs}\\
+\cite{yang_extraction_2002} & 2002 & 40 &  & x &  & x &  &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{yuan_recognition_2002} & 2002 & 40 &  & x &  &  &  &  & x & x & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{wang_approach_2002} & 2002 & 5119 & 1 &  & x &  &  &  & x & x & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{wang_approach_2002} & 2002 & 5119 & 1 & x &  &  &  &  & x & x & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{brashear_using_2003} & 2003 & 5 & 1 &  & x & x &  &  &  & x & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{gao_transition_2004} & 2004 & 5113 & 6 &  & x &  &  &  & x & x & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{windridge_induced_2004} & 2004 & 115 & 1 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{bsl}\\
+\cite{kadir_minimal_2004} & 2004 & 164 & 1 & x &  & x &  &  &  &  & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{bsl}\\
+\cite{hernandez-rebollar_new_2004} & 2004 & 176 & 17 & x &  &  &  &  & x & x & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{bowden_linguistic_2004} & 2004 & 43 & 1 & x &  & x &  &  &  &  & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{bsl}\\
+\cite{vogler_handshapes_2004} & 2004 & 22 &  &  & x &  &  &  & x & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{mcguire_oneway_2004} & 2004 & 141 & 1 &  & x &  &  &  & x &  & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{gao_chinese_2004} & 2004 & 5113 & 6 &  & x &  &  &  & x & x & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{gao_chinese_2004} & 2004 & 5113 & 6 & x &  &  &  &  & x & x & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{nayak_unsupervised_2005} & 2005 & 18 & 1 &  & x & x &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{zahedi_appearancebased_2005} & 2005 & 10 & 3 & x &  & x &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{oz_linguistic_2005} & 2005 & 60 & 6 & x &  &  &  &  & x & x & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{zahedi_pronunciation_2005} & 2005 & 50 & 3 & x &  & x &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{kapuscinski_recognition_2005} & 2005 & 101 & 2 &  & x & x &  &  &  &  & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{psl}\\
+\cite{zahedi_using_2006} & 2006 & 103 & 3 &  & x & x &  &  &  &  & x &  & x &  &  &  &  &  &  &  &  &  &  &  & BU-104 & \acrshort{asl}\\
+\cite{rybach_appearancebased_2006} & 2006 & 103 & 3 &  & x & x &  &  &  &  &  & x & x &  & x &  &  &  &  &  &  &  &  &  & BU-104 & \acrshort{asl}\\
+\cite{wang_expanding_2006} & 2006 & 2435 & 1 & x &  &  &  &  & x &  & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{farhadi_aligning_2006} & 2006 & 21 &  &  & x & x &  &  &  &  & x & x & x &  & x &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{brashear_american_2006} & 2006 & 22 & 5 &  & x &  &  & x & x &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{agris_rapid_2006} & 2006 & 153 & 4 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{bsl}\\
+\cite{fujimura_sign_2006} & 2006 & 100 &  & x &  & x & x &  &  &  & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{jsl}\\
+\cite{wang_american_2006} & 2006 & 26 &  & x &  &  &  &  & x & x & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{fang_largevocabulary_2007} & 2007 & 5113 & 2 &  & x &  &  &  & x & x & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{zahedi_robust_2007} & 2007 & 102 & 3 &  & x & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  & BU-104 & \acrshort{asl}\\
+\cite{zahedi_robust_2007} & 2007 & 10 & 2 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{zahedi_robust_2007} & 2007 & 50 & 3 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  & BU-50 & \acrshort{asl}\\
+\cite{stein_hand_2007} & 2007 & 103 & 3 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & BU-104 & \acrshort{asl}\\
+\cite{von_agris_video_2007} & 2007 & 450 & 5 &  & x & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  & Signum & \acrshort{dgs}\\
+\cite{dreuw_speech_2007} & 2007 & 103 & 3 &  & x & x &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{mohandes_arabic_2007} & 2007 & 300 & 1 & x &  &  &  & x &  &  & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{arsl}\\
+\cite{infantino_framework_2007} & 2007 & 40 &  &  & x & x &  &  &  &  & x & x &  &  &  & x &  &  &  &  &  &  &  &  &  & \acrshort{lis}\\
+\cite{infantino_framework_2007} & 2007 & 40 &  & x &  & x &  &  &  &  & x & x &  &  &  & x &  &  &  &  &  &  &  &  &  & \acrshort{lis}\\
+\cite{shanableh_spatiotemporal_2007} & 2007 & 23 & 3 & x &  & x &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{arsl}\\
+\cite{cooper_sign_2007} & 2007 & 5 & 9 & x &  & x &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{bsl}\\
+\cite{wang_viewpoint_2007} & 2007 & 100 & 1 & x &  &  &  & x &  &  & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{cooper_large_2007} & 2007 & 164 & 1 & x &  & x &  &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{bsl}\\
+\cite{yang_enhanced_2007} & 2007 & 39 &  &  & x & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{von_agris_recent_2008} & 2008 & 152 &  &  & x &  &  & x &  &  & x & x & x &  & x & x &  &  &  &  &  &  &  &  &  & \acrshort{dgs}\\
+\cite{von_agris_recent_2008} & 2008 & 229 & 4 & x &  & x &  &  &  &  & x & x & x &  & x & x &  &  &  &  &  &  &  &  &  & \acrshort{bsl}\\
+\cite{forster_integrated_2008} & 2008 & 103 & 3 &  & x & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  & BU-104 & \acrshort{asl}\\
+\cite{von_agris_significance_2008} & 2008 & 450 & 25 &  & x & x &  &  &  &  & x & x & x &  & x & x &  &  &  &  &  &  &  &  & Signum & \acrshort{dgs}\\
+\cite{maebatake_sign_2008} & 2008 & 183 & 4 &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{jsl}\\
+\cite{paulraj_extraction_2008} & 2008 & 32 &  & x &  & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{malaysl}\\
+\cite{kim_bichannel_2008} & 2008 & 7 & 8 & x &  &  &  &  & x &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{dgs}\\
+\cite{maraqa_recognition_2008} & 2008 & 30 & 2 & x &  &  &  & x &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{arsl}\\
+\cite{aran_multiclass_2008} & 2008 & 19 & 8 & x &  &  &  & x &  &  & x & x & x &  & x &  &  &  &  &  &  &  &  &  &  & \acrshort{tsl}\\
+\cite{trmal_feature_2008} & 2008 & 25 & 20 & x &  & x &  &  &  &  & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{czsl}\\
+\cite{lichtenauer_sign_2008} & 2008 & 120 & 75 & x &  & x &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{ngt}\\
+\cite{derpanis_definition_2008} & 2008 & 148 & 3 & x &  & x &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{zahedi_using_2008} & 2008 & 102 & 3 &  & x & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{athitsos_american_2008} & 2008 & 108 & 2 & x &  & x &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{dreuw_visual_2008} & 2008 & 104 & 3 &  & x & x &  &  &  &  & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{dreuw_visual_2008a} & 2008 & 103 & 3 &  & x & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{kelly_framework_2009} & 2009 & 8 & 1 & x &  &  &  & x &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{irishsl}\\
+\cite{kelly_recognizing_2009} & 2009 & 8 & 1 & x &  &  &  & x &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{irishsl}\\
+\cite{yin_learning_2009} & 2009 & 141 & 1 &  & x &  &  &  & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{theodorakis_producthmms_2009} & 2009 & 93 & 1 & x &  & x &  &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{gsl}\\
+\cite{lichtenauer_personindependent_2009} & 2009 & 120 & 75 & x &  & x &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{ngt}\\
+\cite{hruz_input_2009} & 2009 & 50 & 1 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{czsl}\\
+\cite{ding_modelling_2009} & 2009 & 38 & 10 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{dreuw_smoothed_2009} & 2009 & 103 & 3 &  & x & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{dias_hand_2009} & 2009 & 15 & 4 & x &  & x &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{libras}\\
+\cite{buehler_learning_2009} & 2009 & 210 & 3 &  & x & x &  &  &  &  & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{bsl}\\
+\cite{liwicki_automatic_2009} & 2009 & 100 &  & x &  & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{bsl}\\
+\cite{yang_sign_2009} & 2009 & 48 & 1 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{cooper_learning_2009} & 2009 & 23 & 1 &  & x & x &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{bsl}\\
+\cite{han_modelling_2009} & 2009 & 10 & 1 & x &  & x &  &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{irishsl}\\
+\cite{han_modelling_2009} & 2009 & 20 & 1 & x &  &  &  & x &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{bsl}\\
+\cite{awad_novel_2009} & 2009 & 20 & 1 & x &  &  &  & x &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{bsl}\\
+\cite{aran_signtutor_2009} & 2009 & 19 & 8 & x &  &  &  & x &  &  & x & x & x &  & x &  &  &  &  &  &  &  &  &  &  & \acrshort{tsl}\\
+\cite{santemiz_automatic_2009} & 2009 & 40 & 1 &  & x & x &  &  &  &  & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{tsl}\\
+\cite{aran_beliefbased_2009} & 2009 & 19 & 8 & x &  &  &  & x &  &  & x & x & x &  & x &  &  &  &  &  &  &  &  &  &  & \acrshort{tsl}\\
+\cite{oszust_determining_2010} & 2010 & 10 &  &  & x & x &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{psl}\\
+\cite{paulraj_phoneme_2010} & 2010 & 9 &  & x &  & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{malaysl}\\
+\cite{tolba_image_2010} & 2010 & 28 &  & x &  & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{arsl}\\
+\cite{aran_multiclass_2010} & 2010 & 19 & 8 & x &  &  &  & x &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{tsl}\\
+\cite{buehler_employing_2010} & 2010 & 210 & 3 &  & x & x &  &  &  &  & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{bsl}\\
+\cite{zafrulla_novel_2010} & 2010 & 19 & 5 &  & x &  &  & x & x &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{kong_sign_2010} & 2010 & 33 & 1 &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{cooper_sign_2010a} & 2010 & 164 & 1 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{bsl}\\
+\cite{cooper_sign_2010a} & 2010 & 5 & 9 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{bsl}\\
+\cite{cooper_sign_2010} & 2010 & 164 & 1 & x &  & x &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{bsl}\\
+\cite{assaleh_continuous_2010} & 2010 & 80 & 1 &  & x & x &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{arsl}\\
+\cite{assaleh_continuous_2010} & 2010 & 23 & 3 & x &  & x &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{arsl}\\
+\cite{zhou_adaptive_2010} & 2010 & 256 & 6 & x &  &  &  &  & x & x & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{wang_system_2010} & 2010 & 1113 & 2 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{athitsos_databasebased_2010} & 2010 & 921 & 3 & x &  & x &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{theodorakis_modellevel_2010} & 2010 & 20 & 1 &  & x & x &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{yang_handling_2010} & 2010 & 39 & 1 &  & x & x &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{yang_handling_2010} & 2010 & 40 & 1 &  & x & x &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{yang_handling_2010} & 2010 & 99 & 3 &  & x & x &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{pitsikalis_datadriven_2010} & 2010 & 50 & 1 &  & x & x &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{kong_subject_2011} & 2011 & 107 & 8 &  & x &  &  &  & x & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{yang_combination_2011} & 2011 & 24 & 1 &  & x &  &  & x &  &  & x & x &  &  & x & x & x &  & x &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{cooper_reading_2011} & 2011 & 984 & 1 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{gsl}\\
+\cite{zafrulla_american_2011} & 2011 & 19 & 7 &  & x & x & x &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{sarkar_segmentationrobust_2011} & 2011 & 65 &  &  & x & x &  &  &  &  & x & x &  &  & x &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{sarkar_segmentationrobust_2011} & 2011 & 147 & 10 & x &  & x &  &  &  &  & x & x &  &  & x &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{mekala_realtime_2011} & 2011 & 26 &  & x &  & x &  &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{kosmidou_enhanced_2011} & 2011 & 61 & 9 & x &  &  &  &  & x &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{gsl}\\
+\cite{kelly_weakly_2011} & 2011 & 8 & 2 & x &  &  &  & x &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{irishsl}\\
+\cite{uebersax_realtime_2011} & 2011 & 26 & 7 & x &  & x &  &  &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{rekha_hand_2011} & 2011 & 10 &  & x &  & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{pugeault_spelling_2011} & 2011 & 24 & 4 & x &  & x & x &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{barczak_new_2011} & 2011 & 36 & 5 & x &  & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{thangali_exploiting_2011} & 2011 & 82 & 2 & x &  & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{zaki_sign_2011} & 2011 & 30 & 3 & x &  & x &  &  &  &  & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{shanableh_userindependent_2011} & 2011 & 23 & 3 & x &  &  &  & x &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{arsl}\\
+\cite{pitsikalis_advances_2011} & 2011 & 961 & 1 & x &  & x &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{gsl}\\
+\cite{ong_sign_2012} & 2012 & 40 & 14 & x &  & x & x &  &  &  & x & x & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{dgs}\\
+\cite{ong_sign_2012} & 2012 & 982 & 1 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{gsl}\\
+\cite{cooper_sign_2012} & 2012 & 164 & 1 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{bsl}\\
+\cite{cooper_sign_2012} & 2012 & 20 & 6 & x &  & x & x &  &  &  & x & x & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{gsl}\\
+\cite{cooper_sign_2012} & 2012 & 40 & 15 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{dgs}\\
+\cite{cooper_sign_2012} & 2012 & 984 & 1 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{gsl}\\
+\cite{forster_rwthphoenixweather_2012} & 2012 & 266 & 1 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{dgs}\\
+\cite{forster_rwthphoenixweather_2012} & 2012 & 911 & 7 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{dgs}\\
+\cite{oberdorfer_investigations_2012} & 2012 & 455 & 1 &  & x & x &  &  &  &  & x &  & x &  & x &  &  &  &  &  &  &  &  &  & Signum & \acrshort{dgs}\\
+\cite{oberdorfer_investigations_2012} & 2012 & 455 & 25 &  & x & x &  &  &  &  & x &  & x &  & x &  &  &  &  &  &  &  &  &  & Signum & \acrshort{dgs}\\
+\cite{gweth_enhanced_2012} & 2012 & 455 & 1 &  & x & x &  &  &  &  & x &  & x &  &  &  &  &  &  &  &  &  &  &  & Signum & \acrshort{dgs}\\
+\cite{kishore_video_2012} & 2012 & 80 & 10 & x &  & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{indiansl}\\
+\cite{mohandes_signerindependent_2012} & 2012 & 300 & 3 & x &  &  &  & x &  &  & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{arsl}\\
+\cite{lang_sign_2012} & 2012 & 25 &  & x &  & x & x &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{dgs}\\
+\cite{kindiroglu_automatic_2012} & 2012 & 88 & 11 & x &  & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{czsl} \acrshort{russiansl} \acrshort{tsl}\\
+\cite{caridakis_non_2012} & 2012 & 118 & 3 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{gsl}\\
+\cite{dreuw_probabilistic_2012} & 2012 & 103 & 3 &  & x & x &  &  &  &  & x & x & x &  & x &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{fagiani_new_2012} & 2012 & 147 & 10 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{lis}\\
+\cite{sun_latent_2013} & 2013 & 73 & 9 & x &  & x & x &  &  &  & x & x & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{asl}\\
+\cite{sun_discriminative_2013} & 2013 & 73 & 9 & x &  & x & x &  &  &  & x & x & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{asl}\\
+\cite{oszust_recognition_2013} & 2013 & 30 & 1 & x &  & x & x &  &  &  & x &  & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{psl}\\
+\cite{oszust_polish_2013} & 2013 & 30 & 1 & x &  & x & x &  &  &  & x & x & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{psl}\\
+\cite{forster_modality_2013} & 2013 & 266 & 1 &  & x & x &  &  &  &  &  & x & x &  & x &  &  &  &  &  &  & x &  &  &  & \acrshort{dgs}\\
+\cite{forster_modality_2013} & 2013 & 455 & 1 &  & x & x &  &  &  &  &  & x & x &  & x &  &  &  &  &  &  & x &  &  & Signum & \acrshort{dgs}\\
+\cite{forster_modality_2013} & 2013 & 455 & 25 &  & x & x &  &  &  &  &  & x & x &  & x &  &  &  &  &  &  & x &  &  & Signum & \acrshort{dgs}\\
+\cite{forster_improving_2013} & 2013 & 266 & 1 &  & x & x &  &  &  &  &  & x & x &  & x &  &  &  &  &  &  & x &  &  &  & \acrshort{dgs}\\
+\cite{forster_improving_2013} & 2013 & 455 & 1 &  & x & x &  &  &  &  &  & x & x &  & x &  &  &  &  &  &  & x &  &  & Signum & \acrshort{dgs}\\
+\cite{mohandes_arabic_2013} & 2013 & 100 & 1 & x &  &  &  &  & x &  & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{arsl}\\
+\cite{chai_sign_2013} & 2013 & 239 &  & x &  & x & x &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{agarwal_sign_2013} & 2013 & 10 &  & x &  & x & x &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{mohandes_recognition_2013} & 2013 & 100 & 2 & x &  &  &  &  & x & x & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{arsl}\\
+\cite{kuznetsova_realtime_2013} & 2013 & 24 & 3 & x &  & x & x &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{elons_proposed_2013} & 2013 & 50 &  & x &  & x & x &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{arsl}\\
+\cite{yang_robust_2013} & 2013 & 24 &  &  & x & x &  &  &  &  & x & x &  &  & x &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{roussos_dynamic_2013} & 2013 & 100 & 2 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{gsl}\\
+\cite{han_boosted_2013} & 2013 & 20 & 2 & x &  & x &  &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{bsl}\\
+\cite{zhang_thresholdbased_2014} & 2014 & 34 & 3 &  & x & x & x &  &  &  & x &  &  &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{csl}\\
+\cite{zhang_thresholdbased_2014} & 2014 & 34 & 5 & x &  & x & x &  &  &  & x &  &  &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{csl}\\
+\cite{ong_sign_2014} & 2014 & 48 & 3 &  & x & x &  &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{ong_sign_2014} & 2014 & 40 & 14 & x &  & x & x &  &  &  & x & x & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{dgs}\\
+\cite{ong_sign_2014} & 2014 & 981 & 1 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{gsl}\\
+\cite{chai_devisign_2014} & 2014 & 2000 & 8 & x &  & x & x &  &  &  & x &  & x &  &  &  &  &  &  &  & x &  &  &  & Devisign-L & \acrshort{csl}\\
+\cite{chai_devisign_2014} & 2014 & 36 & 8 & x &  & x & x &  &  &  & x &  & x &  &  &  &  &  &  &  & x &  &  &  & Devisign-G & \acrshort{csl}\\
+\cite{chai_devisign_2014} & 2014 & 500 & 8 & x &  & x & x &  &  &  & x &  & x &  &  &  &  &  &  &  & x &  &  &  & Devisign-D & \acrshort{csl}\\
+\cite{kong_subject_2014} & 2014 & 107 & 8 &  & x &  &  &  & x & x & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{forster_extensions_2014} & 2014 & 1558 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{dgs}\\
+\cite{forster_extensions_2014} & 2014 & 911 & 7 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{dgs}\\
+\cite{mohandes_arabic_2014} & 2014 & 38 & 10 & x &  &  & x &  &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{arsl}\\
+\cite{igari_sign_2014} & 2014 & 80 & 3 & x &  &  &  &  &  & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{jsl}\\
+\cite{theodorakis_dynamicstatic_2014} & 2014 & 1046 & 2 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{gsl}\\
+\cite{theodorakis_dynamicstatic_2014} & 2014 & 94 & 1 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{theodorakis_dynamicstatic_2014} & 2014 & 97 & 2 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{almeida_feature_2014} & 2014 & 34 & 1 & x &  & x & x &  &  &  & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{libras}\\
+\cite{geng_chinese_2014} & 2014 & 8 & 8 & x &  & x & x &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{huang_sign_2015} & 2015 & 25 & 9 & x &  & x & x &  &  &  & x & x & x & x &  &  &  &  &  &  & x &  &  &  &  & \acrshort{csl}\\
+\cite{yin_weakly_2015} & 2015 & 1000 & 7 & x &  & x & x &  &  &  & x & x & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{csl}\\
+\cite{koller_continuous_2015} & 2015 & 1080 & 9 &  & x & x &  &  &  &  & x & x & x &  & x & x & x &  & x &  &  &  &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{zhang_new_2015} & 2015 & 30 & 5 &  & x & x & x &  &  &  &  & x &  &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{csl}\\
+\cite{zhang_new_2015} & 2015 & 30 & 5 & x &  & x & x &  &  &  &  & x &  &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{csl}\\
+\cite{yin_semantics_2015} & 2015 & 1000 & 7 & x &  & x & x &  &  &  &  & x & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{csl}\\
+\cite{yin_semantics_2015} & 2015 & 370 & 1 & x &  & x & x &  &  &  &  & x & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{csl}\\
+\cite{wang_fast_2015} & 2015 & 1000 & 1 & x &  & x & x &  &  &  & x &  & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{csl}\\
+\cite{wang_fast_2015} & 2015 & 1000 & 7 & x &  & x & x &  &  &  & x &  & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{csl}\\
+\cite{wang_fast_2015} & 2015 & 370 & 1 & x &  & x & x &  &  &  & x &  & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{csl}\\
+\cite{neto_extreme_2015} & 2015 & 18 &  & x &  & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{libras}\\
+\cite{chai_communication_2015} & 2015 & 1000 & 1 & x &  & x & x &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{chai_communication_2015} & 2015 & 1000 & 7 & x &  & x & x &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{nagendraswamy_symbolic_2015} & 2015 & 15 & 4 & x &  & x &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{indiansl}\\
+\cite{fagiani_signer_2015} & 2015 & 147 & 10 & x &  & x &  &  &  &  & x &  & x & x & x &  &  &  &  &  &  &  &  &  &  & \acrshort{lis}\\
+\cite{tubaiz_glovebased_2015} & 2015 & 80 & 1 &  & x &  &  &  & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{arsl}\\
+\cite{cheng_novel_2015} & 2015 & 223 & 5 & x &  &  &  &  &  & x &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{zhou_unsupervised_2015} & 2015 & 20 & 7 & x &  & x & x &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{koller16:hybridsign} & 2016 & 1080 & 9 &  & x & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{koller16:hybridsign} & 2016 & 455 & 1 &  & x & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  & Signum & \acrshort{dgs}\\
+\cite{koller_automatic_2016} & 2016 & 1080 & 9 &  & x & x &  &  &  &  & x & x & x & x & x & x & x &  & x &  &  &  &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{koller_deep_2016} & 2016 & 1080 & 9 &  & x & x &  &  &  &  & x & x & x &  & x & x & x &  & x &  &  &  &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{koller_deep_2016} & 2016 & 455 & 1 &  & x & x &  &  &  &  & x & x & x &  & x & x & x &  & x &  &  &  &  &  & Signum & \acrshort{dgs}\\
+\cite{zheng_sign_2016} & 2016 & 36 & 8 & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  & Devisign-G & \acrshort{csl}\\
+\cite{yin_iterative_2016} & 2016 & 1000 & 1 & x &  & x & x &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{yin_iterative_2016} & 2016 & 1000 & 7 & x &  & x & x &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{yin_iterative_2016} & 2016 & 2000 & 8 & x &  & x & x &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  & Devisign-L & \acrshort{csl}\\
+\cite{zhang_chinese_2016} & 2016 & 100 & 1 & x &  & x & x &  &  &  & x &  & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{csl}\\
+\cite{zhang_chinese_2016} & 2016 & 500 & 1 & x &  & x & x &  &  &  & x &  & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{csl}\\
+\cite{zhang_multimodality_2016} & 2016 & 99 & 5 &  & x & x & x &  &  &  & x & x & x &  & x & x & x &  &  &  & x &  &  &  &  & \acrshort{asl}\\
+\cite{pu_sign_2016a} & 2016 & 500 & 50 & x &  & x & x &  &  &  & x & x & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{csl}\\
+\cite{liu_sign_2016} & 2016 & 100 & 50 & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{csl}\\
+\cite{liu_sign_2016} & 2016 & 500 & 50 & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{csl}\\
+\cite{lim_feature_2016} & 2016 & 50 & 3 & x &  & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  & BU-50 & \acrshort{asl}\\
+\cite{nagendraswamy_lbpv_2016} & 2016 & 26 & 4 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & \acrshort{indiansl}\\
+\cite{pigou_sign_2016} & 2016 & 100 & 53 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & \acrshort{flemishsl}\\
+\cite{pigou_sign_2016} & 2016 & 100 & 78 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & \acrshort{ngt}\\
+\cite{camgoz_sign_2016} & 2016 & 33 & 6 & x &  & x & x &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{tsl}\\
+\cite{yang_continuous_2016} & 2016 & 21 & 2 &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{csl}\\
+\cite{yang_continuous_2016} & 2016 & 21 & 8 & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{csl}\\
+\cite{ronchetti_handshape_2016} & 2016 & 16 &  & x &  &  &  & x &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  & LSA16 & \acrshort{argentiniansl}\\
+\cite{pu_sign_2016} & 2016 & 100 & 14 & x &  & x & x &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{wei_componentbased_2016} & 2016 & 110 & 5 & x &  &  &  &  &  & x &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{li_sign_2016} & 2016 & 510 & 5 &  & x &  &  &  & x &  & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{wang_sparse_2016} & 2016 & 1000 & 1 & x &  & x & x &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{wang_sparse_2016} & 2016 & 370 & 1 & x &  & x & x &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{camgoz_bosphorussign_2016} & 2016 & 855 & 10 & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{tsl}\\
+\cite{cui_recurrent_2017} & 2017 & 1080 & 9 &  & x & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{camgoz_subunets_2017} & 2017 & 1080 & 9 &  & x & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{koller_resign_2017} & 2017 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{koller_resign_2017} & 2017 & 455 & 1 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Signum & \acrshort{dgs}\\
+\cite{li_chinese_2017} & 2017 & 80 & 10 & x &  & x & x &  &  &  & x & x & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{csl}\\
+\cite{guo_online_2017} & 2017 & 370 & 5 & x &  & x & x &  &  &  & x &  & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{csl}\\
+\cite{garcia-bautista_mexican_2017} & 2017 & 20 & 35 & x &  & x & x &  &  &  & x &  &  &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{mexicansl}\\
+\cite{pigou_gesture_2017} & 2017 & 10 & 53 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & \acrshort{flemishsl}\\
+\cite{pigou_gesture_2017} & 2017 & 10 & 78 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & \acrshort{ngt}\\
+\cite{pigou_gesture_2017} & 2017 & 100 & 53 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & \acrshort{flemishsl}\\
+\cite{pigou_gesture_2017} & 2017 & 100 & 78 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & \acrshort{ngt}\\
+\cite{pigou_gesture_2017} & 2017 & 20 & 53 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & \acrshort{flemishsl}\\
+\cite{pigou_gesture_2017} & 2017 & 20 & 78 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & \acrshort{ngt}\\
+\cite{pigou_gesture_2017} & 2017 & 50 & 53 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & \acrshort{flemishsl}\\
+\cite{pigou_gesture_2017} & 2017 & 50 & 78 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & \acrshort{ngt}\\
+\cite{hu_sign_2017} & 2017 & 24 & 5 & x &  & x & x &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{hu_sign_2017} & 2017 & 24 & 9 & x &  & x & x &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{quiroga_study_2017} & 2017 & 16 &  & x &  &  &  & x &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  & LSA16 & \acrshort{argentiniansl}\\
+\cite{thang_comparison_2017} & 2017 & 45 & 6 & x &  & x &  &  &  &  & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{thang_comparison_2017} & 2017 & 95 & 5 & x &  &  &  &  & x & x & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{auslan}\\
+\cite{pezzuoli_development_2017} & 2017 & 40 & 1 & x &  &  &  &  & x &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{lis}\\
+\cite{oconnor_language_2017} & 2017 & 26 &  & x &  &  &  &  & x &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{ji_sign_2017} & 2017 & 6 &  & x &  & x &  &  &  &  & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{ksl}\\
+\cite{costa_filho_fully_2017} & 2017 & 61 & 10 & x &  & x & x &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{libras}\\
+\cite{fang_deepasl_2017} & 2017 & 16 & 11 &  & x &  & x &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{fang_deepasl_2017} & 2017 & 56 & 11 & x &  &  & x &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{huang_videobased_2018} & 2018 & 1080 & 9 &  & x & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{huang_videobased_2018} & 2018 & 178 & 50 &  & x & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  & x &  &  & CSL & \acrshort{csl}\\
+\cite{pu_dilated_2018} & 2018 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{pu_dilated_2018} & 2018 & 178 & 50 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & CSL & \acrshort{csl}\\
+\cite{wang_connectionist_2018} & 2018 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{wang_connectionist_2018} & 2018 & 178 & 50 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & CSL & \acrshort{csl}\\
+\cite{koller_deep_2018} & 2018 & 1080 & 9 &  & x & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{koller_deep_2018} & 2018 & 455 & 1 &  & x & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  & Signum & \acrshort{dgs}\\
+\cite{konstantinidis_deep_2018} & 2018 & 50 & 1 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x & x &  & x &  & \acrshort{dgs}\\
+\cite{konstantinidis_deep_2018} & 2018 & 64 & 10 & x &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & x & x &  & x & LSA64 & \acrshort{argentiniansl}\\
+\cite{konstantinidis_sign_2018} & 2018 & 64 & 10 & x &  &  &  & x &  &  & x & x & x & x &  &  &  &  &  &  & x &  &  &  & LSA64 & \acrshort{argentiniansl}\\
+\cite{kishore_motionlets_2018} & 2018 & 500 & 5 & x &  &  &  &  &  & x & x & x & x & x & x &  &  &  &  &  & x &  &  &  &  & \acrshort{indiansl}\\
+\cite{kumar_position_2018} & 2018 & 30 & 10 & x &  & x & x &  &  &  &  & x & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{indiansl}\\
+\cite{huang_attention_2018} & 2018 & 500 & 50 & x &  & x & x &  &  &  & x & x & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{csl}\\
+\cite{liu_selfboosted_2018} & 2018 & 227 &  & x &  & x & x &  &  &  & x &  & x &  &  & x &  &  &  &  &  & x &  &  &  & \acrshort{hksl}\\
+\cite{rao_selfie_2018} & 2018 & 18 & 10 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & \acrshort{indiansl}\\
+\cite{kumar_training_2018} & 2018 & 200 & 10 & x &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{indiansl}\\
+\cite{kumar_threedimensional_2018} & 2018 & 500 & 10 & x &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{indiansl}\\
+\cite{camgoz_neural_2018} & 2018 & 1066 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14T & \acrshort{dgs}\\
+\cite{ebling_smile_2018} & 2018 & 100 & 30 & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{dsgs}\\
+\cite{huang_novel_2018} & 2018 & 310 & 14 & x &  & x & x &  &  &  &  &  & x &  &  &  &  &  &  &  & x &  &  & x &  & \acrshort{csl}\\
+\cite{guo_hierarchical_2018} & 2018 & 178 & 50 &  & x & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  & CSL & \acrshort{csl}\\
+\cite{gunawan_sign_2018} & 2018 & 10 & 10 & x &  &  &  & x &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  & LSA64 & \acrshort{argentiniansl}\\
+\cite{yugopuspito_mobile_2018} & 2018 & 23 &  & x &  & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{indonesiansl}\\
+\cite{gruber_sign_2018} & 2018 & 10 & 18 & x &  & x & x &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{czsl}\\
+\cite{kumar_time_2018} & 2018 & 51 &  & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{rao_deep_2018} & 2018 & 200 & 5 & x &  & x &  &  &  &  & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{indiansl}\\
+\cite{shenoy_realtime_2018} & 2018 & 12 &  & x &  & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{indiansl}\\
+\cite{rakowski_hand_2018} & 2018 & 24 & 5 & x &  & x & x &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{mathur_sign_2018} & 2018 & 32 &  & x &  & x &  &  &  &  & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{lee_smart_2018} & 2018 & 28 &  & x &  &  &  &  & x &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{hashim_kurdish_2018} & 2018 & 12 &  & x &  & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{kurdishsl}\\
+\cite{handhika_gesture_2018} & 2018 & 25 & 2 & x &  & x & x &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{indonesiansl}\\
+\cite{ariesta_sentence_2018} & 2018 & 30 & 10 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{indonesiansl}\\
+\cite{zadghorban_algorithm_2018} & 2018 & 46 & 3 & x &  & x &  &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{persiansl}\\
+\cite{ye_recognizing_2018} & 2018 & 27 & 14 &  & x & x & x &  &  &  & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{xie_rgbd_2018} & 2018 & 24 & 5 & x &  & x & x &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{ma_signfi_2018} & 2018 & 276 & 5 & x &  &  &  &  &  &  & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{pu_iterative_2019} & 2019 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{pu_iterative_2019} & 2019 & 178 & 50 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & CSL & \acrshort{csl}\\
+\cite{liao_dynamic_2019} & 2019 & 500 & 8 & x &  & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  & Devisign-D & \acrshort{csl}\\
+\cite{guo_dense_2019} & 2019 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{guo_dense_2019} & 2019 & 178 & 50 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & CSL & \acrshort{csl}\\
+\cite{pei_continuous_2019} & 2019 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{cui_deep_2019} & 2019 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{cui_deep_2019} & 2019 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  & x & Phoenix14 & \acrshort{dgs}\\
+\cite{cui_deep_2019} & 2019 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x & Phoenix14 & \acrshort{dgs}\\
+\cite{cui_deep_2019} & 2019 & 1080 & 9 &  & x & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{cui_deep_2019} & 2019 & 455 & 1 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  & x & Signum & \acrshort{dgs}\\
+\cite{song_parallel_2019} & 2019 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{zhou_dynamic_2019} & 2019 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{zhou_dynamic_2019} & 2019 & 178 & 50 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & CSL & \acrshort{csl}\\
+\cite{zhang_continuous_2019} & 2019 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{yang_sfnet_2019} & 2019 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{yang_sfnet_2019} & 2019 & 178 & 50 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & CSL & \acrshort{csl}\\
+\cite{koller_weakly_2019} & 2019 & 1066 & 9 &  & x & x &  &  &  &  &  &  & x &  &  & x &  &  &  &  &  & x &  &  & Phoenix14T & \acrshort{dgs}\\
+\cite{koller_weakly_2019} & 2019 & 1080 & 9 &  & x & x &  &  &  &  &  &  & x &  &  & x &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{bilge_zeroshot_2019} & 2019 & 50 & 1 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & \acrshort{asl}\\
+\cite{bilge_zeroshot_2019} & 2019 & 50 & 1 & x &  & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  & x &  &  &  & \acrshort{asl}\\
+\cite{bilge_zeroshot_2019} & 2019 & 50 & 1 & x &  & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{vaezi_joze_msasl_2019} & 2019 & 100 & 189 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & MS-ASL & \acrshort{asl}\\
+\cite{vaezi_joze_msasl_2019} & 2019 & 100 & 189 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & MS-ASL & \acrshort{asl}\\
+\cite{vaezi_joze_msasl_2019} & 2019 & 1000 & 222 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & MS-ASL & \acrshort{asl}\\
+\cite{vaezi_joze_msasl_2019} & 2019 & 1000 & 222 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & MS-ASL & \acrshort{asl}\\
+\cite{vaezi_joze_msasl_2019} & 2019 & 200 & 196 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & MS-ASL & \acrshort{asl}\\
+\cite{vaezi_joze_msasl_2019} & 2019 & 200 & 196 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & MS-ASL & \acrshort{asl}\\
+\cite{vaezi_joze_msasl_2019} & 2019 & 500 & 222 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & MS-ASL & \acrshort{asl}\\
+\cite{vaezi_joze_msasl_2019} & 2019 & 500 & 222 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & MS-ASL & \acrshort{asl}\\
+\cite{sabyrov_realtime_2019} & 2019 & 20 & 3 & x &  & x &  &  &  &  &  &  &  &  & x & x & x &  & x &  & x &  &  &  &  & \acrshort{krsl}\\
+\cite{kindiroglu_temporal_2019} & 2019 & 174 & 4 & x &  & x & x &  &  &  & x &  & x &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{tsl}\\
+\cite{wang_bidirectional_2019} & 2019 & 138 & 70 & x &  &  &  &  & x & x & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{csl}\\
+\cite{kumar_s3drgf_2019} & 2019 & 700 & 10 & x &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{indiansl}\\
+\cite{wei_deep_2019} & 2019 & 178 & 50 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & CSL & \acrshort{csl}\\
+\cite{tornay_hmmbased_2019} & 2019 & 94 & 30 & x &  & x & x &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{dsgs}\\
+\cite{farag_learning_2019} & 2019 & 12 &  &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{jsl}\\
+\cite{paudyal_learn2sign_2019} & 2019 & 25 & 100 & x &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{jose_tamil_2019} & 2019 & 31 &  & x &  & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{tamilsl}\\
+\cite{latif_arasl_2019} & 2019 & 32 & 40 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{arsl}\\
+\cite{avola_exploiting_2019} & 2019 & 30 & 20 & x &  &  & x &  &  &  & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{mittal_modifiedlstm_2019} & 2019 & 35 &  &  & x &  & x &  &  &  & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{isl}\\
+\cite{hassan_multiple_2019} & 2019 & 80 & 1 &  & x &  &  &  & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{arsl}\\
+\cite{hassan_multiple_2019} & 2019 & 80 & 1 &  & x & x &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{arsl}\\
+\cite{hassan_multiple_2019} & 2019 & 80 & 2 &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{arsl}\\
+\cite{albanie_bsl1k_2020} & 2020 & 1000 & 222 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & MS-ASL & \acrshort{asl}\\
+\cite{albanie_bsl1k_2020} & 2020 & 1064 & 40 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{bsl}\\
+\cite{albanie_bsl1k_2020} & 2020 & 1064 & 40 & x &  & x &  &  &  &  &  &  &  &  & x &  &  &  &  &  &  & x &  &  &  & \acrshort{bsl}\\
+\cite{albanie_bsl1k_2020} & 2020 & 2000 & 119 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & WSASL & \acrshort{asl}\\
+\cite{adaloglou_comprehensive_2020} & 2020 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{adaloglou_comprehensive_2020} & 2020 & 178 & 50 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & CSL & \acrshort{csl}\\
+\cite{adaloglou_comprehensive_2020} & 2020 & 310 & 7 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & \acrshort{gsl}\\
+\cite{adaloglou_comprehensive_2020} & 2020 & 310 & 7 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & \acrshort{gsl}\\
+\cite{papastratis_continuous_2020} & 2020 & 1066 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14T & \acrshort{dgs}\\
+\cite{papastratis_continuous_2020} & 2020 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{papastratis_continuous_2020} & 2020 & 178 & 50 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & CSL & \acrshort{csl}\\
+\cite{zhou_selfattentionbased_2020} & 2020 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{cheng_fully_2020} & 2020 & 1066 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14T & \acrshort{dgs}\\
+\cite{cheng_fully_2020} & 2020 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{cheng_fully_2020} & 2020 & 178 & 50 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & CSL & \acrshort{csl}\\
+\cite{zhou_spatialtemporal_2020} & 2020 & 1066 & 9 &  & x & x &  &  &  &  &  &  & x &  & x &  &  &  &  &  & x & x &  &  & Phoenix14T & \acrshort{dgs}\\
+\cite{zhou_spatialtemporal_2020} & 2020 & 1080 & 9 &  & x & x &  &  &  &  &  &  & x &  & x &  &  &  &  &  & x & x &  &  & Phoenix14 & \acrshort{dgs}\\
+\cite{zhou_spatialtemporal_2020} & 2020 & 178 & 50 &  & x & x &  &  &  &  &  &  & x &  & x &  &  &  &  &  & x & x &  &  & CSL & \acrshort{csl}\\
+\cite{mukushev_evaluation_2020} & 2020 & 20 & 5 & x &  & x &  &  &  &  &  &  &  &  & x & x & x &  & x &  & x &  &  &  &  & \acrshort{krsl}\\
+\cite{vasudevan_introduction_2020} & 2020 & 19 & 58 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & \acrshort{lse}\\
+\cite{de_coster_sign_2020} & 2020 & 100 & 67 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{flemishsl}\\
+\cite{de_coster_sign_2020} & 2020 & 100 & 67 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & \acrshort{flemishsl}\\
+\cite{camgoz_sign_2020} & 2020 & 1066 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14T & \acrshort{dgs}\\
+\cite{tamer_keyword_2020} & 2020 & 1066 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & Phoenix14T & \acrshort{dgs}\\
+\cite{li_wordlevel_2020} & 2020 & 100 & 97 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & WSASL & \acrshort{asl}\\
+\cite{li_wordlevel_2020} & 2020 & 100 & 97 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & WSASL & \acrshort{asl}\\
+\cite{li_wordlevel_2020} & 2020 & 1000 & 116 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & WSASL & \acrshort{asl}\\
+\cite{li_wordlevel_2020} & 2020 & 1000 & 116 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & WSASL & \acrshort{asl}\\
+\cite{li_wordlevel_2020} & 2020 & 2000 & 119 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & WSASL & \acrshort{asl}\\
+\cite{li_wordlevel_2020} & 2020 & 2000 & 119 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & WSASL & \acrshort{asl}\\
+\cite{li_wordlevel_2020} & 2020 & 300 & 109 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  & WSASL & \acrshort{asl}\\
+\cite{li_wordlevel_2020} & 2020 & 300 & 109 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & WSASL & \acrshort{asl}\\
+\cite{li_transferring_2020} & 2020 & 100 & 189 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & MS-ASL & \acrshort{asl}\\
+\cite{li_transferring_2020} & 2020 & 100 & 97 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & WSASL & \acrshort{asl}\\
+\cite{li_transferring_2020} & 2020 & 200 & 196 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & MS-ASL & \acrshort{asl}\\
+\cite{li_transferring_2020} & 2020 & 300 & 109 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & WSASL & \acrshort{asl}\\
+\cite{ozdemir_bosphorussign22k_2020} & 2020 & 744 & 6 & x &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  & x &  & \acrshort{tsl}\\
+\cite{izutov_asl_2020} & 2020 & 100 & 189 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & MS-ASL & \acrshort{asl}\\
+\cite{izutov_asl_2020} & 2020 & 1000 & 222 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & MS-ASL & \acrshort{asl}\\
+\cite{izutov_asl_2020} & 2020 & 200 & 196 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & MS-ASL & \acrshort{asl}\\
+\cite{izutov_asl_2020} & 2020 & 500 & 222 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & MS-ASL & \acrshort{asl}\\
