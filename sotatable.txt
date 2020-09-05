@@ -319,6 +319,7 @@
 \cite{ye_recognizing_2018} & 2018 & 27 & 14 &  & x & x & x &  &  &  & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
 \cite{xie_rgbd_2018} & 2018 & 24 & 5 & x &  & x & x &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
 \cite{ma_signfi_2018} & 2018 & 276 & 5 & x &  &  &  &  &  &  & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{asl}\\
+\cite{song_parallel_2019} & 2019 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
 \cite{pu_iterative_2019} & 2019 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
 \cite{pu_iterative_2019} & 2019 & 178 & 50 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & CSL & \acrshort{csl}\\
 \cite{liao_dynamic_2019} & 2019 & 500 & 8 & x &  & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  & Devisign-D & \acrshort{csl}\\
@@ -330,7 +331,6 @@
 \cite{cui_deep_2019} & 2019 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x & Phoenix14 & \acrshort{dgs}\\
 \cite{cui_deep_2019} & 2019 & 1080 & 9 &  & x & x &  &  &  &  &  &  & x &  &  &  &  &  &  &  &  &  &  &  & Phoenix14 & \acrshort{dgs}\\
 \cite{cui_deep_2019} & 2019 & 455 & 1 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  & x & Signum & \acrshort{dgs}\\
-\cite{song_parallel_2019} & 2019 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
 \cite{zhou_dynamic_2019} & 2019 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
 \cite{zhou_dynamic_2019} & 2019 & 178 & 50 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & CSL & \acrshort{csl}\\
 \cite{zhang_continuous_2019} & 2019 & 1080 & 9 &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & Phoenix14 & \acrshort{dgs}\\
@@ -364,6 +364,7 @@
 \cite{hassan_multiple_2019} & 2019 & 80 & 1 &  & x &  &  &  & x & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{arsl}\\
 \cite{hassan_multiple_2019} & 2019 & 80 & 1 &  & x & x &  &  &  &  & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{arsl}\\
 \cite{hassan_multiple_2019} & 2019 & 80 & 2 &  & x &  &  &  &  & x & x & x &  &  &  &  &  &  &  &  &  &  &  &  &  & \acrshort{arsl}\\
+\cite{borg_phonologicallymeaningful_2020} & 2020 & 1080 & 9 &  & x & x &  &  &  &  &  & x & x &  &  &  &  &  &  &  & x &  &  &  & Phoenix14 & \acrshort{dgs}\\
 \cite{albanie_bsl1k_2020} & 2020 & 1000 & 222 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  & MS-ASL & \acrshort{asl}\\
 \cite{albanie_bsl1k_2020} & 2020 & 1064 & 40 & x &  & x &  &  &  &  &  &  &  &  &  &  &  &  &  &  & x &  &  &  &  & \acrshort{bsl}\\
 \cite{albanie_bsl1k_2020} & 2020 & 1064 & 40 & x &  & x &  &  &  &  &  &  &  &  & x &  &  &  &  &  &  & x &  &  &  & \acrshort{bsl}\\
